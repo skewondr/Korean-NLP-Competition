@@ -1,0 +1,18 @@
+version 1 - set learning rate 
+
+Accuracy: 0.84874
+[[21100  3727]
+ [ 3836 21337]]
+              precision    recall  f1-score   support
+
+           0       0.85      0.85      0.85     24827
+           1       0.85      0.85      0.85     25173
+
+    accuracy                           0.85     50000
+   macro avg       0.85      0.85      0.85     50000
+weighted avg       0.85      0.85      0.85     50000
+
+
+version 2 - adam default
+
+

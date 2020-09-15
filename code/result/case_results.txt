@@ -1,0 +1,9513 @@
+
+-------df index 140--------
+case1: 1	case2: 79
+
+-------df index 146--------
+case1: 3	case2: 156
+
+-------df index 284--------
+case1: 1	case2: 98
+
+-------df index 292--------
+case1: 3	case2: 159
+
+-------df index 297--------
+case1: 1	case2: 40
+
+-------df index 317--------
+case1: 1	case2: 165
+
+-------df index 362--------
+case1: 1	case2: 27
+
+-------df index 370--------
+case1: 1	case2: 122
+
+-------df index 375--------
+case1: 1	case2: 15
+
+-------df index 384--------
+case1: 1	case2: 35
+
+-------df index 466--------
+case1: 3	case2: 9
+
+-------df index 469--------
+case1: 4	case2: 72
+
+-------df index 478--------
+case1: 1	case2: 34
+
+-------df index 506--------
+case1: 1	case2: 187
+
+-------df index 529--------
+case1: 1	case2: 5
+
+-------df index 534--------
+case1: 27	case2: 48
+
+-------df index 569--------
+case1: 4	case2: 165
+
+-------df index 632--------
+case1: 30	case2: 234
+
+-------df index 636--------
+case1: 25	case2: 80
+
+-------df index 641--------
+case1: 25	case2: 112
+
+-------df index 648--------
+case1: 18	case2: 87
+
+-------df index 655--------
+case1: 66	case2: 133
+
+-------df index 659--------
+case1: 2	case2: 73
+
+-------df index 674--------
+case1: 1	case2: 54
+
+-------df index 702--------
+case1: 5	case2: 48
+
+-------df index 751--------
+case1: 1	case2: 12
+
+-------df index 765--------
+case1: 1	case2: 39
+
+-------df index 788--------
+case1: 4	case2: 105
+
+-------df index 850--------
+case1: 11	case2: 29
+
+-------df index 915--------
+case1: 8	case2: 71
+
+-------df index 970--------
+case1: 1	case2: 1
+
+-------df index 1003--------
+case1: 10	case2: 64
+
+-------df index 1010--------
+case1: 3	case2: 52
+
+-------df index 1022--------
+case1: 28	case2: 85
+
+-------df index 1032--------
+case1: 5	case2: 33
+
+-------df index 1037--------
+case1: 3	case2: 24
+
+-------df index 1049--------
+case1: 5	case2: 6
+
+-------df index 1072--------
+case1: 42	case2: 68
+
+-------df index 1080--------
+case1: 1	case2: 7
+
+-------df index 1098--------
+case1: 4	case2: 51
+
+-------df index 1116--------
+case1: 18	case2: 33
+
+-------df index 1177--------
+case1: 21	case2: 38
+
+-------df index 1181--------
+case1: 8	case2: 39
+
+-------df index 1204--------
+case1: 71	case2: 146
+
+-------df index 1207--------
+case1: 13	case2: 27
+
+-------df index 1208--------
+case1: 17	case2: 30
+
+-------df index 1217--------
+case1: 2	case2: 55
+
+-------df index 1233--------
+case1: 24	case2: 77
+
+-------df index 1238--------
+case1: 10	case2: 29
+
+-------df index 1264--------
+case1: 13	case2: 23
+
+-------df index 1281--------
+case1: 21	case2: 47
+
+-------df index 1283--------
+case1: 2	case2: 5
+
+-------df index 1289--------
+case1: 1	case2: 16
+
+-------df index 1308--------
+case1: 58	case2: 167
+
+-------df index 1312--------
+case1: 6	case2: 39
+
+-------df index 1322--------
+case1: 7	case2: 45
+
+-------df index 1324--------
+case1: 1	case2: 6
+
+-------df index 1330--------
+case1: 3	case2: 34
+
+-------df index 1332--------
+case1: 17	case2: 138
+
+-------df index 1345--------
+case1: 13	case2: 50
+
+-------df index 1362--------
+case1: 20	case2: 46
+
+-------df index 1364--------
+case1: 34	case2: 88
+
+-------df index 1395--------
+case1: 16	case2: 32
+
+-------df index 1398--------
+case1: 7	case2: 33
+
+-------df index 1431--------
+case1: 64	case2: 101
+
+-------df index 1449--------
+case1: 14	case2: 48
+
+-------df index 1474--------
+case1: 19	case2: 26
+
+-------df index 1522--------
+case1: 3	case2: 20
+
+-------df index 1525--------
+case1: 1	case2: 3
+
+-------df index 1541--------
+case1: 3	case2: 6
+
+-------df index 1547--------
+case1: 2	case2: 16
+
+-------df index 1583--------
+case1: 8	case2: 17
+
+-------df index 1592--------
+case1: 8	case2: 41
+
+-------df index 1599--------
+case1: 31	case2: 25
+
+-------df index 1626--------
+case1: 5	case2: 7
+
+-------df index 1627--------
+case1: 5	case2: 21
+
+-------df index 1630--------
+case1: 1	case2: 26
+
+-------df index 1643--------
+case1: 4	case2: 12
+
+-------df index 1669--------
+case1: 5	case2: 53
+
+-------df index 1672--------
+case1: 29	case2: 31
+
+-------df index 1678--------
+case1: 1	case2: 4
+
+-------df index 1728--------
+case1: 38	case2: 96
+
+-------df index 1729--------
+case1: 5	case2: 29
+
+-------df index 1739--------
+case1: 1	case2: 20
+
+-------df index 1746--------
+case1: 1	case2: 1
+
+-------df index 1798--------
+case1: 34	case2: 22
+
+-------df index 1800--------
+case1: 5	case2: 16
+
+-------df index 1821--------
+case1: 1	case2: 8
+
+-------df index 1839--------
+case1: 2	case2: 16
+
+-------df index 1851--------
+case1: 3	case2: 1
+
+-------df index 1862--------
+case1: 1	case2: 24
+
+-------df index 1870--------
+case1: 2	case2: 3
+
+-------df index 1874--------
+case1: 39	case2: 35
+
+-------df index 1875--------
+case1: 3	case2: 29
+
+-------df index 1903--------
+case1: 4	case2: 30
+
+-------df index 1920--------
+case1: 1	case2: 0
+
+-------df index 1931--------
+case1: 12	case2: 79
+
+-------df index 1933--------
+case1: 16	case2: 25
+
+-------df index 1954--------
+case1: 14	case2: 8
+
+-------df index 1974--------
+case1: 2	case2: 20
+
+-------df index 2028--------
+case1: 22	case2: 36
+
+-------df index 2047--------
+case1: 6	case2: 18
+
+-------df index 2048--------
+case1: 1	case2: 9
+
+-------df index 2051--------
+case1: 8	case2: 41
+
+-------df index 2065--------
+case1: 4	case2: 6
+
+-------df index 2066--------
+case1: 34	case2: 44
+
+-------df index 2096--------
+case1: 7	case2: 7
+
+-------df index 2120--------
+case1: 2	case2: 33
+
+-------df index 2133--------
+case1: 4	case2: 26
+
+-------df index 2154--------
+case1: 5	case2: 7
+
+-------df index 2202--------
+case1: 2	case2: 8
+
+-------df index 2219--------
+case1: 40	case2: 50
+
+-------df index 2245--------
+case1: 18	case2: 52
+
+-------df index 2252--------
+case1: 26	case2: 31
+
+-------df index 2256--------
+case1: 10	case2: 30
+
+-------df index 2274--------
+case1: 1	case2: 1
+
+-------df index 2278--------
+case1: 14	case2: 14
+
+-------df index 2279--------
+case1: 16	case2: 41
+
+-------df index 2280--------
+case1: 4	case2: 14
+
+-------df index 2304--------
+case1: 1	case2: 2
+
+-------df index 2310--------
+case1: 43	case2: 31
+
+-------df index 2325--------
+case1: 9	case2: 3
+
+-------df index 2335--------
+case1: 10	case2: 26
+
+-------df index 2343--------
+case1: 3	case2: 24
+
+-------df index 2377--------
+case1: 3	case2: 16
+
+-------df index 2378--------
+case1: 4	case2: 5
+
+-------df index 2389--------
+case1: 4	case2: 21
+
+-------df index 2433--------
+case1: 15	case2: 51
+
+-------df index 2440--------
+case1: 22	case2: 38
+
+-------df index 2446--------
+case1: 24	case2: 32
+
+-------df index 2448--------
+case1: 22	case2: 9
+
+-------df index 2454--------
+case1: 33	case2: 28
+
+-------df index 2473--------
+case1: 6	case2: 14
+
+-------df index 2512--------
+case1: 2	case2: 6
+
+-------df index 2519--------
+case1: 8	case2: 19
+
+-------df index 2536--------
+case1: 30	case2: 56
+
+-------df index 2579--------
+case1: 7	case2: 21
+
+-------df index 2595--------
+case1: 27	case2: 36
+
+-------df index 2653--------
+case1: 2	case2: 14
+
+-------df index 2658--------
+case1: 5	case2: 8
+
+-------df index 2664--------
+case1: 29	case2: 45
+
+-------df index 2697--------
+case1: 6	case2: 4
+
+-------df index 2732--------
+case1: 1	case2: 8
+
+-------df index 2735--------
+case1: 62	case2: 49
+
+-------df index 2763--------
+case1: 29	case2: 58
+
+-------df index 2787--------
+case1: 2	case2: 5
+
+-------df index 2807--------
+case1: 5	case2: 3
+
+-------df index 2813--------
+case1: 4	case2: 8
+
+-------df index 2824--------
+case1: 15	case2: 33
+
+-------df index 2838--------
+case1: 1	case2: 4
+
+-------df index 2852--------
+case1: 5	case2: 6
+
+-------df index 2854--------
+case1: 1	case2: 8
+
+-------df index 2869--------
+case1: 1	case2: 1
+
+-------df index 2872--------
+case1: 14	case2: 14
+
+-------df index 2876--------
+case1: 9	case2: 13
+
+-------df index 2877--------
+case1: 3	case2: 10
+
+-------df index 2887--------
+case1: 1	case2: 9
+
+-------df index 2891--------
+case1: 17	case2: 30
+
+-------df index 2899--------
+case1: 14	case2: 23
+
+-------df index 2900--------
+case1: 10	case2: 16
+
+-------df index 2903--------
+case1: 16	case2: 8
+
+-------df index 2951--------
+case1: 54	case2: 57
+
+-------df index 2954--------
+case1: 17	case2: 54
+
+-------df index 2956--------
+case1: 1	case2: 18
+
+-------df index 2978--------
+case1: 8	case2: 2
+
+-------df index 2979--------
+case1: 24	case2: 20
+
+-------df index 2984--------
+case1: 41	case2: 75
+
+-------df index 2987--------
+case1: 24	case2: 42
+
+-------df index 3019--------
+case1: 5	case2: 6
+
+-------df index 3020--------
+case1: 15	case2: 11
+
+-------df index 3045--------
+case1: 7	case2: 9
+
+-------df index 3065--------
+case1: 21	case2: 45
+
+-------df index 3082--------
+case1: 1	case2: 7
+
+-------df index 3083--------
+case1: 1	case2: 2
+
+-------df index 3102--------
+case1: 11	case2: 12
+
+-------df index 3120--------
+case1: 23	case2: 50
+
+-------df index 3139--------
+case1: 2	case2: 4
+
+-------df index 3158--------
+case1: 10	case2: 47
+
+-------df index 3165--------
+case1: 45	case2: 41
+
+-------df index 3168--------
+case1: 64	case2: 55
+
+-------df index 3215--------
+case1: 9	case2: 15
+
+-------df index 3223--------
+case1: 33	case2: 36
+
+-------df index 3227--------
+case1: 5	case2: 15
+
+-------df index 3259--------
+case1: 7	case2: 6
+
+-------df index 3265--------
+case1: 1	case2: 3
+
+-------df index 3273--------
+case1: 9	case2: 22
+
+-------df index 3274--------
+case1: 5	case2: 11
+
+-------df index 3276--------
+case1: 7	case2: 21
+
+-------df index 3287--------
+case1: 1	case2: 9
+
+-------df index 3302--------
+case1: 1	case2: 9
+
+-------df index 3305--------
+case1: 1	case2: 0
+
+-------df index 3330--------
+case1: 23	case2: 3
+
+-------df index 3339--------
+case1: 1	case2: 5
+
+-------df index 3340--------
+case1: 4	case2: 5
+
+-------df index 3359--------
+case1: 18	case2: 8
+
+-------df index 3362--------
+case1: 39	case2: 17
+
+-------df index 3382--------
+case1: 21	case2: 25
+
+-------df index 3395--------
+case1: 45	case2: 15
+
+-------df index 3400--------
+case1: 1	case2: 1
+
+-------df index 3422--------
+case1: 23	case2: 24
+
+-------df index 3438--------
+case1: 25	case2: 27
+
+-------df index 3448--------
+case1: 1	case2: 0
+
+-------df index 3453--------
+case1: 7	case2: 17
+
+-------df index 3477--------
+case1: 1	case2: 7
+
+-------df index 3500--------
+case1: 5	case2: 12
+
+-------df index 3502--------
+case1: 4	case2: 13
+
+-------df index 3506--------
+case1: 12	case2: 6
+
+-------df index 3514--------
+case1: 1	case2: 9
+
+-------df index 3519--------
+case1: 36	case2: 27
+
+-------df index 3525--------
+case1: 38	case2: 23
+
+-------df index 3531--------
+case1: 31	case2: 40
+
+-------df index 3551--------
+case1: 6	case2: 12
+
+-------df index 3572--------
+case1: 5	case2: 4
+
+-------df index 3573--------
+case1: 1	case2: 5
+
+-------df index 3577--------
+case1: 13	case2: 10
+
+-------df index 3591--------
+case1: 10	case2: 20
+
+-------df index 3603--------
+case1: 35	case2: 18
+
+-------df index 3616--------
+case1: 1	case2: 2
+
+-------df index 3642--------
+case1: 7	case2: 19
+
+-------df index 3656--------
+case1: 3	case2: 15
+
+-------df index 3669--------
+case1: 35	case2: 43
+
+-------df index 3675--------
+case1: 15	case2: 28
+
+-------df index 3687--------
+case1: 1	case2: 0
+
+-------df index 3701--------
+case1: 7	case2: 1
+
+-------df index 3704--------
+case1: 8	case2: 9
+
+-------df index 3715--------
+case1: 14	case2: 24
+
+-------df index 3722--------
+case1: 11	case2: 14
+
+-------df index 3724--------
+case1: 35	case2: 28
+
+-------df index 3726--------
+case1: 3	case2: 6
+
+-------df index 3735--------
+case1: 16	case2: 15
+
+-------df index 3742--------
+case1: 10	case2: 13
+
+-------df index 3744--------
+case1: 2	case2: 4
+
+-------df index 3753--------
+case1: 27	case2: 12
+
+-------df index 3757--------
+case1: 9	case2: 14
+
+-------df index 3779--------
+case1: 29	case2: 48
+
+-------df index 3780--------
+case1: 27	case2: 36
+
+-------df index 3801--------
+case1: 51	case2: 45
+
+-------df index 3808--------
+case1: 51	case2: 27
+
+-------df index 3814--------
+case1: 15	case2: 18
+
+-------df index 3826--------
+case1: 7	case2: 8
+
+-------df index 3852--------
+case1: 6	case2: 1
+
+-------df index 3853--------
+case1: 13	case2: 3
+
+-------df index 3858--------
+case1: 6	case2: 4
+
+-------df index 3887--------
+case1: 1	case2: 11
+
+-------df index 3895--------
+case1: 4	case2: 7
+
+-------df index 3909--------
+case1: 6	case2: 23
+
+-------df index 3946--------
+case1: 14	case2: 31
+
+-------df index 3967--------
+case1: 1	case2: 8
+
+-------df index 3973--------
+case1: 1	case2: 2
+
+-------df index 3977--------
+case1: 16	case2: 22
+
+-------df index 4004--------
+case1: 10	case2: 9
+
+-------df index 4006--------
+case1: 4	case2: 5
+
+-------df index 4030--------
+case1: 66	case2: 14
+
+-------df index 4047--------
+case1: 12	case2: 9
+
+-------df index 4049--------
+case1: 5	case2: 4
+
+-------df index 4069--------
+case1: 2	case2: 0
+
+-------df index 4074--------
+case1: 2	case2: 4
+
+-------df index 4089--------
+case1: 1	case2: 2
+
+-------df index 4095--------
+case1: 23	case2: 54
+
+-------df index 4139--------
+case1: 2	case2: 3
+
+-------df index 4147--------
+case1: 1	case2: 1
+
+-------df index 4162--------
+case1: 8	case2: 13
+
+-------df index 4167--------
+case1: 3	case2: 14
+
+-------df index 4172--------
+case1: 42	case2: 15
+
+-------df index 4199--------
+case1: 66	case2: 50
+
+-------df index 4202--------
+case1: 2	case2: 3
+
+-------df index 4203--------
+case1: 37	case2: 23
+
+-------df index 4211--------
+case1: 3	case2: 5
+
+-------df index 4214--------
+case1: 3	case2: 7
+
+-------df index 4217--------
+case1: 3	case2: 9
+
+-------df index 4227--------
+case1: 2	case2: 1
+
+-------df index 4229--------
+case1: 4	case2: 3
+
+-------df index 4231--------
+case1: 14	case2: 23
+
+-------df index 4244--------
+case1: 1	case2: 17
+
+-------df index 4249--------
+case1: 1	case2: 7
+
+-------df index 4274--------
+case1: 14	case2: 7
+
+-------df index 4278--------
+case1: 7	case2: 63
+
+-------df index 4298--------
+case1: 49	case2: 35
+
+-------df index 4308--------
+case1: 29	case2: 37
+
+-------df index 4363--------
+case1: 26	case2: 26
+
+-------df index 4392--------
+case1: 5	case2: 2
+
+-------df index 4395--------
+case1: 4	case2: 4
+
+-------df index 4417--------
+case1: 3	case2: 4
+
+-------df index 4419--------
+case1: 1	case2: 2
+
+-------df index 4437--------
+case1: 2	case2: 9
+
+-------df index 4448--------
+case1: 11	case2: 5
+
+-------df index 4468--------
+case1: 1	case2: 0
+
+-------df index 4486--------
+case1: 36	case2: 50
+
+-------df index 4495--------
+case1: 1	case2: 3
+
+-------df index 4503--------
+case1: 23	case2: 19
+
+-------df index 4511--------
+case1: 1	case2: 1
+
+-------df index 4515--------
+case1: 7	case2: 10
+
+-------df index 4516--------
+case1: 1	case2: 2
+
+-------df index 4521--------
+case1: 52	case2: 29
+
+-------df index 4527--------
+case1: 21	case2: 11
+
+-------df index 4533--------
+case1: 11	case2: 15
+
+-------df index 4547--------
+case1: 13	case2: 17
+
+-------df index 4582--------
+case1: 3	case2: 4
+
+-------df index 4590--------
+case1: 19	case2: 13
+
+-------df index 4600--------
+case1: 14	case2: 8
+
+-------df index 4603--------
+case1: 28	case2: 33
+
+-------df index 4643--------
+case1: 1	case2: 8
+
+-------df index 4651--------
+case1: 12	case2: 22
+
+-------df index 4656--------
+case1: 3	case2: 6
+
+-------df index 4683--------
+case1: 55	case2: 48
+
+-------df index 4685--------
+case1: 2	case2: 7
+
+-------df index 4688--------
+case1: 5	case2: 0
+
+-------df index 4741--------
+case1: 20	case2: 1
+
+-------df index 4746--------
+case1: 12	case2: 17
+
+-------df index 4751--------
+case1: 1	case2: 6
+
+-------df index 4771--------
+case1: 4	case2: 4
+
+-------df index 4779--------
+case1: 6	case2: 5
+
+-------df index 4780--------
+case1: 1	case2: 10
+
+-------df index 4795--------
+case1: 10	case2: 8
+
+-------df index 4806--------
+case1: 31	case2: 4
+
+-------df index 4827--------
+case1: 14	case2: 11
+
+-------df index 4832--------
+case1: 11	case2: 13
+
+-------df index 4837--------
+case1: 24	case2: 24
+
+-------df index 4884--------
+case1: 2	case2: 2
+
+-------df index 4918--------
+case1: 20	case2: 5
+
+-------df index 4933--------
+case1: 27	case2: 4
+
+-------df index 4936--------
+case1: 14	case2: 8
+
+-------df index 4964--------
+case1: 5	case2: 14
+
+-------df index 5024--------
+case1: 6	case2: 2
+
+-------df index 5031--------
+case1: 1	case2: 3
+
+-------df index 5049--------
+case1: 16	case2: 38
+
+-------df index 5050--------
+case1: 49	case2: 50
+
+-------df index 5059--------
+case1: 8	case2: 19
+
+-------df index 5064--------
+case1: 41	case2: 45
+
+-------df index 5089--------
+case1: 35	case2: 47
+
+-------df index 5095--------
+case1: 36	case2: 17
+
+-------df index 5099--------
+case1: 3	case2: 1
+
+-------df index 5100--------
+case1: 1	case2: 3
+
+-------df index 5114--------
+case1: 3	case2: 1
+
+-------df index 5122--------
+case1: 3	case2: 6
+
+-------df index 5127--------
+case1: 11	case2: 15
+
+-------df index 5145--------
+case1: 6	case2: 16
+
+-------df index 5168--------
+case1: 3	case2: 0
+
+-------df index 5174--------
+case1: 24	case2: 14
+
+-------df index 5176--------
+case1: 27	case2: 30
+
+-------df index 5177--------
+case1: 1	case2: 4
+
+-------df index 5187--------
+case1: 12	case2: 18
+
+-------df index 5190--------
+case1: 26	case2: 13
+
+-------df index 5198--------
+case1: 10	case2: 14
+
+-------df index 5207--------
+case1: 1	case2: 2
+
+-------df index 5211--------
+case1: 3	case2: 14
+
+-------df index 5214--------
+case1: 6	case2: 1
+
+-------df index 5235--------
+case1: 11	case2: 19
+
+-------df index 5239--------
+case1: 1	case2: 1
+
+-------df index 5242--------
+case1: 22	case2: 18
+
+-------df index 5246--------
+case1: 15	case2: 30
+
+-------df index 5253--------
+case1: 3	case2: 4
+
+-------df index 5261--------
+case1: 1	case2: 1
+
+-------df index 5264--------
+case1: 1	case2: 5
+
+-------df index 5267--------
+case1: 1	case2: 0
+
+-------df index 5281--------
+case1: 36	case2: 19
+
+-------df index 5292--------
+case1: 9	case2: 7
+
+-------df index 5299--------
+case1: 1	case2: 6
+
+-------df index 5301--------
+case1: 4	case2: 4
+
+-------df index 5307--------
+case1: 1	case2: 5
+
+-------df index 5321--------
+case1: 7	case2: 8
+
+-------df index 5339--------
+case1: 10	case2: 9
+
+-------df index 5344--------
+case1: 29	case2: 36
+
+-------df index 5352--------
+case1: 4	case2: 2
+
+-------df index 5357--------
+case1: 42	case2: 28
+
+-------df index 5373--------
+case1: 76	case2: 40
+
+-------df index 5376--------
+case1: 7	case2: 8
+
+-------df index 5380--------
+case1: 13	case2: 2
+
+-------df index 5402--------
+case1: 1	case2: 1
+
+-------df index 5419--------
+case1: 38	case2: 10
+
+-------df index 5480--------
+case1: 11	case2: 29
+
+-------df index 5485--------
+case1: 3	case2: 0
+
+-------df index 5494--------
+case1: 8	case2: 9
+
+-------df index 5506--------
+case1: 20	case2: 16
+
+-------df index 5508--------
+case1: 4	case2: 2
+
+-------df index 5523--------
+case1: 6	case2: 5
+
+-------df index 5550--------
+case1: 42	case2: 26
+
+-------df index 5552--------
+case1: 43	case2: 57
+
+-------df index 5580--------
+case1: 11	case2: 24
+
+-------df index 5595--------
+case1: 20	case2: 7
+
+-------df index 5605--------
+case1: 9	case2: 14
+
+-------df index 5651--------
+case1: 5	case2: 2
+
+-------df index 5654--------
+case1: 5	case2: 5
+
+-------df index 5658--------
+case1: 9	case2: 26
+
+-------df index 5666--------
+case1: 1	case2: 1
+
+-------df index 5685--------
+case1: 12	case2: 7
+
+-------df index 5691--------
+case1: 1	case2: 4
+
+-------df index 5697--------
+case1: 1	case2: 12
+
+-------df index 5732--------
+case1: 91	case2: 43
+
+-------df index 5747--------
+case1: 39	case2: 30
+
+-------df index 5750--------
+case1: 4	case2: 4
+
+-------df index 5751--------
+case1: 21	case2: 12
+
+-------df index 5753--------
+case1: 5	case2: 2
+
+-------df index 5760--------
+case1: 1	case2: 2
+
+-------df index 5783--------
+case1: 8	case2: 10
+
+-------df index 5796--------
+case1: 5	case2: 3
+
+-------df index 5811--------
+case1: 1	case2: 10
+
+-------df index 5856--------
+case1: 3	case2: 10
+
+-------df index 5878--------
+case1: 3	case2: 1
+
+-------df index 5879--------
+case1: 16	case2: 11
+
+-------df index 5913--------
+case1: 11	case2: 3
+
+-------df index 5915--------
+case1: 19	case2: 9
+
+-------df index 5928--------
+case1: 10	case2: 8
+
+-------df index 5931--------
+case1: 29	case2: 9
+
+-------df index 5935--------
+case1: 17	case2: 30
+
+-------df index 5941--------
+case1: 1	case2: 0
+
+-------df index 5963--------
+case1: 1	case2: 4
+
+-------df index 5964--------
+case1: 10	case2: 11
+
+-------df index 5968--------
+case1: 11	case2: 2
+
+-------df index 5980--------
+case1: 3	case2: 2
+
+-------df index 6012--------
+case1: 9	case2: 13
+
+-------df index 6023--------
+case1: 4	case2: 7
+
+-------df index 6037--------
+case1: 16	case2: 26
+
+-------df index 6061--------
+case1: 2	case2: 7
+
+-------df index 6062--------
+case1: 4	case2: 5
+
+-------df index 6071--------
+case1: 10	case2: 5
+
+-------df index 6086--------
+case1: 8	case2: 2
+
+-------df index 6089--------
+case1: 1	case2: 3
+
+-------df index 6092--------
+case1: 31	case2: 26
+
+-------df index 6117--------
+case1: 7	case2: 10
+
+-------df index 6119--------
+case1: 56	case2: 31
+
+-------df index 6131--------
+case1: 2	case2: 2
+
+-------df index 6137--------
+case1: 63	case2: 40
+
+-------df index 6144--------
+case1: 5	case2: 0
+
+-------df index 6153--------
+case1: 2	case2: 29
+
+-------df index 6187--------
+case1: 6	case2: 10
+
+-------df index 6188--------
+case1: 1	case2: 2
+
+-------df index 6206--------
+case1: 1	case2: 1
+
+-------df index 6211--------
+case1: 9	case2: 11
+
+-------df index 6224--------
+case1: 17	case2: 10
+
+-------df index 6238--------
+case1: 3	case2: 4
+
+-------df index 6241--------
+case1: 5	case2: 10
+
+-------df index 6253--------
+case1: 30	case2: 14
+
+-------df index 6255--------
+case1: 25	case2: 4
+
+-------df index 6268--------
+case1: 4	case2: 12
+
+-------df index 6298--------
+case1: 2	case2: 1
+
+-------df index 6300--------
+case1: 1	case2: 0
+
+-------df index 6302--------
+case1: 6	case2: 1
+
+-------df index 6305--------
+case1: 6	case2: 4
+
+-------df index 6325--------
+case1: 11	case2: 10
+
+-------df index 6328--------
+case1: 1	case2: 1
+
+-------df index 6339--------
+case1: 55	case2: 50
+
+-------df index 6340--------
+case1: 49	case2: 19
+
+-------df index 6356--------
+case1: 46	case2: 30
+
+-------df index 6365--------
+case1: 4	case2: 8
+
+-------df index 6369--------
+case1: 8	case2: 1
+
+-------df index 6409--------
+case1: 11	case2: 10
+
+-------df index 6456--------
+case1: 12	case2: 20
+
+-------df index 6458--------
+case1: 1	case2: 1
+
+-------df index 6481--------
+case1: 2	case2: 1
+
+-------df index 6526--------
+case1: 1	case2: 1
+
+-------df index 6545--------
+case1: 6	case2: 11
+
+-------df index 6559--------
+case1: 105	case2: 22
+
+-------df index 6577--------
+case1: 1	case2: 2
+
+-------df index 6586--------
+case1: 24	case2: 12
+
+-------df index 6608--------
+case1: 18	case2: 3
+
+-------df index 6615--------
+case1: 1	case2: 4
+
+-------df index 6635--------
+case1: 1	case2: 6
+
+-------df index 6636--------
+case1: 6	case2: 30
+
+-------df index 6654--------
+case1: 9	case2: 4
+
+-------df index 6661--------
+case1: 6	case2: 2
+
+-------df index 6674--------
+case1: 8	case2: 19
+
+-------df index 6680--------
+case1: 4	case2: 6
+
+-------df index 6692--------
+case1: 1	case2: 1
+
+-------df index 6697--------
+case1: 2	case2: 8
+
+-------df index 6716--------
+case1: 4	case2: 2
+
+-------df index 6725--------
+case1: 1	case2: 1
+
+-------df index 6777--------
+case1: 4	case2: 0
+
+-------df index 6779--------
+case1: 1	case2: 1
+
+-------df index 6789--------
+case1: 14	case2: 8
+
+-------df index 6796--------
+case1: 1	case2: 0
+
+-------df index 6852--------
+case1: 1	case2: 0
+
+-------df index 6860--------
+case1: 21	case2: 32
+
+-------df index 6862--------
+case1: 1	case2: 5
+
+-------df index 6872--------
+case1: 46	case2: 18
+
+-------df index 6876--------
+case1: 1	case2: 0
+
+-------df index 6882--------
+case1: 6	case2: 10
+
+-------df index 6897--------
+case1: 30	case2: 16
+
+-------df index 6901--------
+case1: 1	case2: 1
+
+-------df index 6916--------
+case1: 44	case2: 20
+
+-------df index 6934--------
+case1: 8	case2: 7
+
+-------df index 6941--------
+case1: 1	case2: 12
+
+-------df index 6959--------
+case1: 33	case2: 32
+
+-------df index 6966--------
+case1: 11	case2: 3
+
+-------df index 6970--------
+case1: 8	case2: 11
+
+-------df index 6972--------
+case1: 7	case2: 6
+
+-------df index 6985--------
+case1: 3	case2: 6
+
+-------df index 6993--------
+case1: 43	case2: 27
+
+-------df index 7005--------
+case1: 21	case2: 12
+
+-------df index 7007--------
+case1: 22	case2: 7
+
+-------df index 7010--------
+case1: 5	case2: 8
+
+-------df index 7015--------
+case1: 34	case2: 10
+
+-------df index 7022--------
+case1: 17	case2: 8
+
+-------df index 7030--------
+case1: 5	case2: 1
+
+-------df index 7057--------
+case1: 1	case2: 0
+
+-------df index 7073--------
+case1: 20	case2: 19
+
+-------df index 7075--------
+case1: 1	case2: 0
+
+-------df index 7097--------
+case1: 12	case2: 5
+
+-------df index 7098--------
+case1: 11	case2: 12
+
+-------df index 7107--------
+case1: 24	case2: 18
+
+-------df index 7108--------
+case1: 56	case2: 20
+
+-------df index 7114--------
+case1: 6	case2: 11
+
+-------df index 7128--------
+case1: 39	case2: 12
+
+-------df index 7134--------
+case1: 5	case2: 8
+
+-------df index 7157--------
+case1: 9	case2: 4
+
+-------df index 7164--------
+case1: 4	case2: 15
+
+-------df index 7184--------
+case1: 1	case2: 2
+
+-------df index 7185--------
+case1: 1	case2: 5
+
+-------df index 7187--------
+case1: 14	case2: 16
+
+-------df index 7196--------
+case1: 3	case2: 6
+
+-------df index 7213--------
+case1: 3	case2: 3
+
+-------df index 7236--------
+case1: 3	case2: 5
+
+-------df index 7241--------
+case1: 86	case2: 28
+
+-------df index 7242--------
+case1: 73	case2: 52
+
+-------df index 7261--------
+case1: 3	case2: 9
+
+-------df index 7262--------
+case1: 1	case2: 2
+
+-------df index 7293--------
+case1: 1	case2: 1
+
+-------df index 7307--------
+case1: 6	case2: 10
+
+-------df index 7309--------
+case1: 4	case2: 7
+
+-------df index 7347--------
+case1: 26	case2: 8
+
+-------df index 7359--------
+case1: 12	case2: 5
+
+-------df index 7362--------
+case1: 1	case2: 1
+
+-------df index 7364--------
+case1: 8	case2: 5
+
+-------df index 7392--------
+case1: 14	case2: 2
+
+-------df index 7399--------
+case1: 12	case2: 11
+
+-------df index 7400--------
+case1: 13	case2: 15
+
+-------df index 7404--------
+case1: 12	case2: 21
+
+-------df index 7432--------
+case1: 13	case2: 14
+
+-------df index 7433--------
+case1: 24	case2: 2
+
+-------df index 7446--------
+case1: 1	case2: 3
+
+-------df index 7452--------
+case1: 6	case2: 7
+
+-------df index 7458--------
+case1: 6	case2: 3
+
+-------df index 7459--------
+case1: 1	case2: 3
+
+-------df index 7482--------
+case1: 11	case2: 1
+
+-------df index 7512--------
+case1: 15	case2: 20
+
+-------df index 7513--------
+case1: 3	case2: 2
+
+-------df index 7542--------
+case1: 17	case2: 6
+
+-------df index 7547--------
+case1: 8	case2: 7
+
+-------df index 7559--------
+case1: 11	case2: 5
+
+-------df index 7568--------
+case1: 22	case2: 1
+
+-------df index 7584--------
+case1: 1	case2: 0
+
+-------df index 7600--------
+case1: 9	case2: 6
+
+-------df index 7604--------
+case1: 7	case2: 7
+
+-------df index 7615--------
+case1: 34	case2: 32
+
+-------df index 7629--------
+case1: 3	case2: 4
+
+-------df index 7631--------
+case1: 2	case2: 3
+
+-------df index 7652--------
+case1: 3	case2: 1
+
+-------df index 7666--------
+case1: 20	case2: 3
+
+-------df index 7677--------
+case1: 9	case2: 5
+
+-------df index 7680--------
+case1: 21	case2: 18
+
+-------df index 7684--------
+case1: 1	case2: 1
+
+-------df index 7726--------
+case1: 39	case2: 28
+
+-------df index 7764--------
+case1: 1	case2: 0
+
+-------df index 7768--------
+case1: 1	case2: 1
+
+-------df index 7776--------
+case1: 5	case2: 14
+
+-------df index 7779--------
+case1: 7	case2: 0
+
+-------df index 7809--------
+case1: 2	case2: 5
+
+-------df index 7830--------
+case1: 25	case2: 42
+
+-------df index 7869--------
+case1: 4	case2: 2
+
+-------df index 7871--------
+case1: 3	case2: 4
+
+-------df index 7873--------
+case1: 3	case2: 5
+
+-------df index 7887--------
+case1: 68	case2: 23
+
+-------df index 7908--------
+case1: 11	case2: 17
+
+-------df index 7923--------
+case1: 8	case2: 3
+
+-------df index 7930--------
+case1: 1	case2: 1
+
+-------df index 7963--------
+case1: 11	case2: 14
+
+-------df index 7975--------
+case1: 53	case2: 22
+
+-------df index 7991--------
+case1: 7	case2: 9
+
+-------df index 7995--------
+case1: 3	case2: 0
+
+-------df index 8004--------
+case1: 35	case2: 7
+
+-------df index 8005--------
+case1: 5	case2: 1
+
+-------df index 8031--------
+case1: 59	case2: 29
+
+-------df index 8042--------
+case1: 2	case2: 2
+
+-------df index 8044--------
+case1: 8	case2: 10
+
+-------df index 8064--------
+case1: 22	case2: 10
+
+-------df index 8065--------
+case1: 9	case2: 4
+
+-------df index 8071--------
+case1: 1	case2: 2
+
+-------df index 8092--------
+case1: 4	case2: 0
+
+-------df index 8096--------
+case1: 8	case2: 9
+
+-------df index 8100--------
+case1: 21	case2: 3
+
+-------df index 8118--------
+case1: 20	case2: 12
+
+-------df index 8120--------
+case1: 6	case2: 7
+
+-------df index 8127--------
+case1: 7	case2: 8
+
+-------df index 8128--------
+case1: 16	case2: 13
+
+-------df index 8141--------
+case1: 17	case2: 5
+
+-------df index 8152--------
+case1: 1	case2: 3
+
+-------df index 8158--------
+case1: 1	case2: 1
+
+-------df index 8198--------
+case1: 5	case2: 7
+
+-------df index 8235--------
+case1: 2	case2: 1
+
+-------df index 8244--------
+case1: 7	case2: 1
+
+-------df index 8282--------
+case1: 1	case2: 1
+
+-------df index 8288--------
+case1: 21	case2: 13
+
+-------df index 8293--------
+case1: 46	case2: 36
+
+-------df index 8296--------
+case1: 4	case2: 1
+
+-------df index 8301--------
+case1: 1	case2: 3
+
+-------df index 8318--------
+case1: 40	case2: 8
+
+-------df index 8362--------
+case1: 2	case2: 3
+
+-------df index 8364--------
+case1: 5	case2: 10
+
+-------df index 8368--------
+case1: 8	case2: 1
+
+-------df index 8383--------
+case1: 20	case2: 14
+
+-------df index 8394--------
+case1: 1	case2: 2
+
+-------df index 8410--------
+case1: 28	case2: 23
+
+-------df index 8441--------
+case1: 10	case2: 2
+
+-------df index 8444--------
+case1: 8	case2: 1
+
+-------df index 8473--------
+case1: 1	case2: 1
+
+-------df index 8486--------
+case1: 4	case2: 1
+
+-------df index 8501--------
+case1: 9	case2: 5
+
+-------df index 8503--------
+case1: 20	case2: 20
+
+-------df index 8509--------
+case1: 27	case2: 18
+
+-------df index 8519--------
+case1: 21	case2: 7
+
+-------df index 8522--------
+case1: 3	case2: 2
+
+-------df index 8544--------
+case1: 1	case2: 0
+
+-------df index 8576--------
+case1: 47	case2: 11
+
+-------df index 8593--------
+case1: 28	case2: 25
+
+-------df index 8604--------
+case1: 12	case2: 20
+
+-------df index 8623--------
+case1: 10	case2: 6
+
+-------df index 8634--------
+case1: 14	case2: 5
+
+-------df index 8665--------
+case1: 11	case2: 8
+
+-------df index 8689--------
+case1: 14	case2: 5
+
+-------df index 8694--------
+case1: 1	case2: 1
+
+-------df index 8698--------
+case1: 12	case2: 3
+
+-------df index 8716--------
+case1: 1	case2: 0
+
+-------df index 8721--------
+case1: 36	case2: 4
+
+-------df index 8724--------
+case1: 28	case2: 15
+
+-------df index 8726--------
+case1: 4	case2: 5
+
+-------df index 8751--------
+case1: 67	case2: 20
+
+-------df index 8755--------
+case1: 6	case2: 2
+
+-------df index 8761--------
+case1: 1	case2: 1
+
+-------df index 8786--------
+case1: 3	case2: 4
+
+-------df index 8791--------
+case1: 5	case2: 6
+
+-------df index 8800--------
+case1: 33	case2: 19
+
+-------df index 8801--------
+case1: 9	case2: 6
+
+-------df index 8809--------
+case1: 5	case2: 11
+
+-------df index 8863--------
+case1: 1	case2: 0
+
+-------df index 8865--------
+case1: 19	case2: 3
+
+-------df index 8871--------
+case1: 19	case2: 7
+
+-------df index 8876--------
+case1: 9	case2: 13
+
+-------df index 8894--------
+case1: 7	case2: 15
+
+-------df index 8920--------
+case1: 1	case2: 3
+
+-------df index 8923--------
+case1: 8	case2: 5
+
+-------df index 8982--------
+case1: 3	case2: 12
+
+-------df index 8988--------
+case1: 25	case2: 14
+
+-------df index 8992--------
+case1: 31	case2: 18
+
+-------df index 9004--------
+case1: 10	case2: 4
+
+-------df index 9019--------
+case1: 20	case2: 5
+
+-------df index 9022--------
+case1: 5	case2: 2
+
+-------df index 9023--------
+case1: 7	case2: 2
+
+-------df index 9035--------
+case1: 1	case2: 2
+
+-------df index 9040--------
+case1: 2	case2: 1
+
+-------df index 9045--------
+case1: 6	case2: 9
+
+-------df index 9056--------
+case1: 6	case2: 0
+
+-------df index 9058--------
+case1: 1	case2: 0
+
+-------df index 9102--------
+case1: 5	case2: 3
+
+-------df index 9106--------
+case1: 3	case2: 1
+
+-------df index 9108--------
+case1: 6	case2: 1
+
+-------df index 9116--------
+case1: 1	case2: 2
+
+-------df index 9152--------
+case1: 2	case2: 8
+
+-------df index 9161--------
+case1: 7	case2: 11
+
+-------df index 9180--------
+case1: 1	case2: 0
+
+-------df index 9181--------
+case1: 10	case2: 7
+
+-------df index 9188--------
+case1: 1	case2: 0
+
+-------df index 9191--------
+case1: 1	case2: 0
+
+-------df index 9194--------
+case1: 3	case2: 8
+
+-------df index 9196--------
+case1: 1	case2: 1
+
+-------df index 9198--------
+case1: 16	case2: 16
+
+-------df index 9200--------
+case1: 5	case2: 6
+
+-------df index 9203--------
+case1: 2	case2: 0
+
+-------df index 9206--------
+case1: 11	case2: 30
+
+-------df index 9210--------
+case1: 4	case2: 9
+
+-------df index 9221--------
+case1: 2	case2: 2
+
+-------df index 9222--------
+case1: 102	case2: 40
+
+-------df index 9223--------
+case1: 3	case2: 3
+
+-------df index 9235--------
+case1: 2	case2: 1
+
+-------df index 9264--------
+case1: 33	case2: 11
+
+-------df index 9289--------
+case1: 2	case2: 1
+
+-------df index 9300--------
+case1: 7	case2: 10
+
+-------df index 9301--------
+case1: 30	case2: 14
+
+-------df index 9307--------
+case1: 5	case2: 4
+
+-------df index 9326--------
+case1: 11	case2: 5
+
+-------df index 9330--------
+case1: 1	case2: 0
+
+-------df index 9378--------
+case1: 12	case2: 15
+
+-------df index 9388--------
+case1: 2	case2: 1
+
+-------df index 9390--------
+case1: 27	case2: 6
+
+-------df index 9395--------
+case1: 2	case2: 0
+
+-------df index 9402--------
+case1: 3	case2: 1
+
+-------df index 9444--------
+case1: 21	case2: 13
+
+-------df index 9452--------
+case1: 6	case2: 5
+
+-------df index 9467--------
+case1: 2	case2: 0
+
+-------df index 9468--------
+case1: 8	case2: 4
+
+-------df index 9477--------
+case1: 1	case2: 1
+
+-------df index 9480--------
+case1: 23	case2: 16
+
+-------df index 9489--------
+case1: 5	case2: 3
+
+-------df index 9522--------
+case1: 5	case2: 9
+
+-------df index 9541--------
+case1: 12	case2: 5
+
+-------df index 9556--------
+case1: 10	case2: 1
+
+-------df index 9566--------
+case1: 14	case2: 3
+
+-------df index 9589--------
+case1: 4	case2: 1
+
+-------df index 9595--------
+case1: 1	case2: 1
+
+-------df index 9604--------
+case1: 9	case2: 2
+
+-------df index 9606--------
+case1: 13	case2: 16
+
+-------df index 9631--------
+case1: 15	case2: 10
+
+-------df index 9633--------
+case1: 1	case2: 0
+
+-------df index 9655--------
+case1: 1	case2: 0
+
+-------df index 9682--------
+case1: 12	case2: 34
+
+-------df index 9683--------
+case1: 7	case2: 4
+
+-------df index 9700--------
+case1: 1	case2: 4
+
+-------df index 9704--------
+case1: 1	case2: 0
+
+-------df index 9754--------
+case1: 4	case2: 1
+
+-------df index 9755--------
+case1: 1	case2: 2
+
+-------df index 9789--------
+case1: 14	case2: 4
+
+-------df index 9797--------
+case1: 3	case2: 1
+
+-------df index 9798--------
+case1: 1	case2: 3
+
+-------df index 9799--------
+case1: 1	case2: 0
+
+-------df index 9803--------
+case1: 2	case2: 1
+
+-------df index 9806--------
+case1: 109	case2: 18
+
+-------df index 9807--------
+case1: 14	case2: 8
+
+-------df index 9817--------
+case1: 27	case2: 29
+
+-------df index 9818--------
+case1: 14	case2: 21
+
+-------df index 9835--------
+case1: 57	case2: 6
+
+-------df index 9838--------
+case1: 4	case2: 2
+
+-------df index 9873--------
+case1: 5	case2: 8
+
+-------df index 9891--------
+case1: 3	case2: 1
+
+-------df index 9892--------
+case1: 2	case2: 0
+
+-------df index 9896--------
+case1: 17	case2: 5
+
+-------df index 9903--------
+case1: 17	case2: 6
+
+-------df index 9906--------
+case1: 16	case2: 16
+
+-------df index 9907--------
+case1: 7	case2: 3
+
+-------df index 9914--------
+case1: 9	case2: 5
+
+-------df index 9944--------
+case1: 19	case2: 15
+
+-------df index 9949--------
+case1: 5	case2: 1
+
+-------df index 9951--------
+case1: 3	case2: 1
+
+-------df index 9969--------
+case1: 59	case2: 13
+
+-------df index 9977--------
+case1: 52	case2: 23
+
+-------df index 9993--------
+case1: 19	case2: 7
+
+-------df index 10004--------
+case1: 7	case2: 3
+
+-------df index 10009--------
+case1: 36	case2: 17
+
+-------df index 10015--------
+case1: 1	case2: 4
+
+-------df index 10016--------
+case1: 3	case2: 9
+
+-------df index 10017--------
+case1: 1	case2: 1
+
+-------df index 10019--------
+case1: 6	case2: 3
+
+-------df index 10028--------
+case1: 2	case2: 0
+
+-------df index 10030--------
+case1: 25	case2: 12
+
+-------df index 10072--------
+case1: 1	case2: 0
+
+-------df index 10084--------
+case1: 2	case2: 1
+
+-------df index 10085--------
+case1: 5	case2: 0
+
+-------df index 10106--------
+case1: 17	case2: 6
+
+-------df index 10108--------
+case1: 1	case2: 0
+
+-------df index 10112--------
+case1: 4	case2: 11
+
+-------df index 10122--------
+case1: 48	case2: 20
+
+-------df index 10124--------
+case1: 6	case2: 2
+
+-------df index 10177--------
+case1: 4	case2: 9
+
+-------df index 10187--------
+case1: 10	case2: 5
+
+-------df index 10188--------
+case1: 1	case2: 2
+
+-------df index 10200--------
+case1: 3	case2: 0
+
+-------df index 10201--------
+case1: 7	case2: 0
+
+-------df index 10217--------
+case1: 1	case2: 2
+
+-------df index 10218--------
+case1: 7	case2: 5
+
+-------df index 10221--------
+case1: 24	case2: 4
+
+-------df index 10232--------
+case1: 14	case2: 7
+
+-------df index 10239--------
+case1: 5	case2: 1
+
+-------df index 10249--------
+case1: 16	case2: 11
+
+-------df index 10269--------
+case1: 6	case2: 4
+
+-------df index 10276--------
+case1: 11	case2: 1
+
+-------df index 10278--------
+case1: 2	case2: 1
+
+-------df index 10282--------
+case1: 7	case2: 4
+
+-------df index 10289--------
+case1: 8	case2: 2
+
+-------df index 10313--------
+case1: 1	case2: 5
+
+-------df index 10330--------
+case1: 10	case2: 4
+
+-------df index 10338--------
+case1: 5	case2: 4
+
+-------df index 10341--------
+case1: 8	case2: 2
+
+-------df index 10346--------
+case1: 13	case2: 7
+
+-------df index 10358--------
+case1: 1	case2: 0
+
+-------df index 10364--------
+case1: 2	case2: 0
+
+-------df index 10378--------
+case1: 26	case2: 11
+
+-------df index 10405--------
+case1: 2	case2: 0
+
+-------df index 10438--------
+case1: 36	case2: 10
+
+-------df index 10445--------
+case1: 19	case2: 4
+
+-------df index 10451--------
+case1: 1	case2: 1
+
+-------df index 10470--------
+case1: 3	case2: 0
+
+-------df index 10502--------
+case1: 11	case2: 2
+
+-------df index 10514--------
+case1: 5	case2: 0
+
+-------df index 10521--------
+case1: 13	case2: 2
+
+-------df index 10529--------
+case1: 40	case2: 12
+
+-------df index 10531--------
+case1: 1	case2: 3
+
+-------df index 10533--------
+case1: 13	case2: 3
+
+-------df index 10541--------
+case1: 2	case2: 1
+
+-------df index 10555--------
+case1: 10	case2: 0
+
+-------df index 10559--------
+case1: 14	case2: 2
+
+-------df index 10576--------
+case1: 1	case2: 3
+
+-------df index 10577--------
+case1: 7	case2: 1
+
+-------df index 10613--------
+case1: 12	case2: 0
+
+-------df index 10621--------
+case1: 3	case2: 2
+
+-------df index 10629--------
+case1: 1	case2: 0
+
+-------df index 10630--------
+case1: 15	case2: 11
+
+-------df index 10634--------
+case1: 1	case2: 1
+
+-------df index 10651--------
+case1: 9	case2: 2
+
+-------df index 10667--------
+case1: 4	case2: 2
+
+-------df index 10674--------
+case1: 13	case2: 8
+
+-------df index 10676--------
+case1: 23	case2: 6
+
+-------df index 10696--------
+case1: 24	case2: 17
+
+-------df index 10699--------
+case1: 15	case2: 5
+
+-------df index 10702--------
+case1: 3	case2: 4
+
+-------df index 10717--------
+case1: 1	case2: 1
+
+-------df index 10732--------
+case1: 3	case2: 0
+
+-------df index 10743--------
+case1: 7	case2: 1
+
+-------df index 10763--------
+case1: 6	case2: 7
+
+-------df index 10775--------
+case1: 6	case2: 0
+
+-------df index 10798--------
+case1: 4	case2: 3
+
+-------df index 10810--------
+case1: 1	case2: 0
+
+-------df index 10814--------
+case1: 23	case2: 22
+
+-------df index 10822--------
+case1: 56	case2: 7
+
+-------df index 10831--------
+case1: 5	case2: 2
+
+-------df index 10833--------
+case1: 4	case2: 8
+
+-------df index 10836--------
+case1: 6	case2: 1
+
+-------df index 10838--------
+case1: 18	case2: 14
+
+-------df index 10852--------
+case1: 3	case2: 2
+
+-------df index 10874--------
+case1: 3	case2: 2
+
+-------df index 10878--------
+case1: 11	case2: 1
+
+-------df index 10886--------
+case1: 26	case2: 4
+
+-------df index 10890--------
+case1: 1	case2: 0
+
+-------df index 10891--------
+case1: 5	case2: 6
+
+-------df index 10935--------
+case1: 22	case2: 4
+
+-------df index 10974--------
+case1: 31	case2: 1
+
+-------df index 10976--------
+case1: 15	case2: 4
+
+-------df index 11005--------
+case1: 21	case2: 1
+
+-------df index 11016--------
+case1: 5	case2: 2
+
+-------df index 11022--------
+case1: 1	case2: 0
+
+-------df index 11046--------
+case1: 3	case2: 0
+
+-------df index 11047--------
+case1: 9	case2: 3
+
+-------df index 11079--------
+case1: 20	case2: 4
+
+-------df index 11080--------
+case1: 1	case2: 0
+
+-------df index 11083--------
+case1: 1	case2: 0
+
+-------df index 11121--------
+case1: 61	case2: 12
+
+-------df index 11129--------
+case1: 6	case2: 0
+
+-------df index 11142--------
+case1: 15	case2: 9
+
+-------df index 11148--------
+case1: 3	case2: 0
+
+-------df index 11154--------
+case1: 4	case2: 0
+
+-------df index 11164--------
+case1: 53	case2: 12
+
+-------df index 11185--------
+case1: 10	case2: 4
+
+-------df index 11197--------
+case1: 1	case2: 0
+
+-------df index 11198--------
+case1: 4	case2: 1
+
+-------df index 11199--------
+case1: 3	case2: 0
+
+-------df index 11200--------
+case1: 6	case2: 3
+
+-------df index 11207--------
+case1: 21	case2: 4
+
+-------df index 11219--------
+case1: 5	case2: 6
+
+-------df index 11251--------
+case1: 1	case2: 0
+
+-------df index 11266--------
+case1: 17	case2: 0
+
+-------df index 11277--------
+case1: 3	case2: 4
+
+-------df index 11288--------
+case1: 19	case2: 27
+
+-------df index 11291--------
+case1: 3	case2: 0
+
+-------df index 11298--------
+case1: 9	case2: 1
+
+-------df index 11300--------
+case1: 4	case2: 2
+
+-------df index 11302--------
+case1: 1	case2: 0
+
+-------df index 11310--------
+case1: 19	case2: 5
+
+-------df index 11336--------
+case1: 6	case2: 6
+
+-------df index 11342--------
+case1: 3	case2: 5
+
+-------df index 11354--------
+case1: 32	case2: 23
+
+-------df index 11407--------
+case1: 20	case2: 2
+
+-------df index 11418--------
+case1: 9	case2: 0
+
+-------df index 11444--------
+case1: 1	case2: 0
+
+-------df index 11445--------
+case1: 4	case2: 2
+
+-------df index 11456--------
+case1: 1	case2: 0
+
+-------df index 11469--------
+case1: 4	case2: 3
+
+-------df index 11471--------
+case1: 10	case2: 6
+
+-------df index 11473--------
+case1: 4	case2: 5
+
+-------df index 11485--------
+case1: 1	case2: 1
+
+-------df index 11499--------
+case1: 11	case2: 6
+
+-------df index 11504--------
+case1: 48	case2: 13
+
+-------df index 11517--------
+case1: 2	case2: 1
+
+-------df index 11525--------
+case1: 40	case2: 34
+
+-------df index 11528--------
+case1: 2	case2: 3
+
+-------df index 11529--------
+case1: 5	case2: 1
+
+-------df index 11535--------
+case1: 33	case2: 3
+
+-------df index 11544--------
+case1: 5	case2: 1
+
+-------df index 11546--------
+case1: 9	case2: 2
+
+-------df index 11560--------
+case1: 9	case2: 1
+
+-------df index 11574--------
+case1: 1	case2: 1
+
+-------df index 11589--------
+case1: 4	case2: 4
+
+-------df index 11601--------
+case1: 5	case2: 0
+
+-------df index 11602--------
+case1: 2	case2: 1
+
+-------df index 11624--------
+case1: 5	case2: 2
+
+-------df index 11643--------
+case1: 1	case2: 0
+
+-------df index 11655--------
+case1: 1	case2: 0
+
+-------df index 11669--------
+case1: 28	case2: 15
+
+-------df index 11680--------
+case1: 14	case2: 4
+
+-------df index 11688--------
+case1: 3	case2: 0
+
+-------df index 11727--------
+case1: 1	case2: 0
+
+-------df index 11737--------
+case1: 2	case2: 3
+
+-------df index 11743--------
+case1: 1	case2: 1
+
+-------df index 11770--------
+case1: 1	case2: 3
+
+-------df index 11782--------
+case1: 18	case2: 13
+
+-------df index 11785--------
+case1: 2	case2: 6
+
+-------df index 11833--------
+case1: 3	case2: 6
+
+-------df index 11844--------
+case1: 4	case2: 0
+
+-------df index 11853--------
+case1: 11	case2: 3
+
+-------df index 11854--------
+case1: 3	case2: 7
+
+-------df index 11868--------
+case1: 1	case2: 0
+
+-------df index 11877--------
+case1: 1	case2: 2
+
+-------df index 11878--------
+case1: 2	case2: 2
+
+-------df index 11902--------
+case1: 3	case2: 0
+
+-------df index 11932--------
+case1: 10	case2: 2
+
+-------df index 11936--------
+case1: 51	case2: 17
+
+-------df index 11937--------
+case1: 1	case2: 0
+
+-------df index 11939--------
+case1: 2	case2: 0
+
+-------df index 11965--------
+case1: 2	case2: 0
+
+-------df index 11978--------
+case1: 5	case2: 6
+
+-------df index 11982--------
+case1: 48	case2: 24
+
+-------df index 12003--------
+case1: 3	case2: 0
+
+-------df index 12007--------
+case1: 15	case2: 1
+
+-------df index 12010--------
+case1: 50	case2: 6
+
+-------df index 12041--------
+case1: 2	case2: 1
+
+-------df index 12054--------
+case1: 5	case2: 1
+
+-------df index 12055--------
+case1: 3	case2: 2
+
+-------df index 12070--------
+case1: 1	case2: 0
+
+-------df index 12076--------
+case1: 12	case2: 9
+
+-------df index 12077--------
+case1: 1	case2: 0
+
+-------df index 12107--------
+case1: 1	case2: 1
+
+-------df index 12108--------
+case1: 1	case2: 0
+
+-------df index 12112--------
+case1: 11	case2: 2
+
+-------df index 12161--------
+case1: 1	case2: 2
+
+-------df index 12185--------
+case1: 1	case2: 1
+
+-------df index 12187--------
+case1: 20	case2: 1
+
+-------df index 12192--------
+case1: 10	case2: 5
+
+-------df index 12205--------
+case1: 1	case2: 2
+
+-------df index 12229--------
+case1: 1	case2: 1
+
+-------df index 12238--------
+case1: 8	case2: 3
+
+-------df index 12240--------
+case1: 1	case2: 1
+
+-------df index 12252--------
+case1: 1	case2: 0
+
+-------df index 12253--------
+case1: 19	case2: 5
+
+-------df index 12254--------
+case1: 6	case2: 1
+
+-------df index 12264--------
+case1: 2	case2: 6
+
+-------df index 12272--------
+case1: 12	case2: 16
+
+-------df index 12275--------
+case1: 1	case2: 0
+
+-------df index 12288--------
+case1: 1	case2: 0
+
+-------df index 12290--------
+case1: 15	case2: 3
+
+-------df index 12293--------
+case1: 78	case2: 9
+
+-------df index 12313--------
+case1: 2	case2: 2
+
+-------df index 12314--------
+case1: 16	case2: 6
+
+-------df index 12334--------
+case1: 1	case2: 0
+
+-------df index 12336--------
+case1: 14	case2: 3
+
+-------df index 12342--------
+case1: 9	case2: 8
+
+-------df index 12359--------
+case1: 2	case2: 0
+
+-------df index 12372--------
+case1: 5	case2: 2
+
+-------df index 12384--------
+case1: 1	case2: 0
+
+-------df index 12394--------
+case1: 20	case2: 4
+
+-------df index 12402--------
+case1: 3	case2: 5
+
+-------df index 12452--------
+case1: 7	case2: 4
+
+-------df index 12457--------
+case1: 11	case2: 2
+
+-------df index 12466--------
+case1: 2	case2: 4
+
+-------df index 12470--------
+case1: 10	case2: 12
+
+-------df index 12471--------
+case1: 16	case2: 17
+
+-------df index 12491--------
+case1: 9	case2: 2
+
+-------df index 12500--------
+case1: 9	case2: 4
+
+-------df index 12506--------
+case1: 8	case2: 2
+
+-------df index 12509--------
+case1: 1	case2: 0
+
+-------df index 12510--------
+case1: 3	case2: 2
+
+-------df index 12520--------
+case1: 8	case2: 3
+
+-------df index 12535--------
+case1: 2	case2: 1
+
+-------df index 12553--------
+case1: 6	case2: 1
+
+-------df index 12561--------
+case1: 1	case2: 0
+
+-------df index 12567--------
+case1: 13	case2: 2
+
+-------df index 12569--------
+case1: 11	case2: 0
+
+-------df index 12570--------
+case1: 6	case2: 2
+
+-------df index 12598--------
+case1: 1	case2: 6
+
+-------df index 12601--------
+case1: 6	case2: 1
+
+-------df index 12614--------
+case1: 18	case2: 10
+
+-------df index 12617--------
+case1: 6	case2: 0
+
+-------df index 12620--------
+case1: 5	case2: 0
+
+-------df index 12622--------
+case1: 15	case2: 3
+
+-------df index 12631--------
+case1: 5	case2: 1
+
+-------df index 12634--------
+case1: 1	case2: 0
+
+-------df index 12669--------
+case1: 1	case2: 0
+
+-------df index 12689--------
+case1: 3	case2: 0
+
+-------df index 12700--------
+case1: 24	case2: 8
+
+-------df index 12708--------
+case1: 2	case2: 1
+
+-------df index 12726--------
+case1: 1	case2: 0
+
+-------df index 12740--------
+case1: 5	case2: 1
+
+-------df index 12749--------
+case1: 4	case2: 9
+
+-------df index 12789--------
+case1: 1	case2: 0
+
+-------df index 12793--------
+case1: 4	case2: 0
+
+-------df index 12819--------
+case1: 1	case2: 4
+
+-------df index 12831--------
+case1: 5	case2: 0
+
+-------df index 12875--------
+case1: 5	case2: 2
+
+-------df index 12879--------
+case1: 3	case2: 2
+
+-------df index 12897--------
+case1: 4	case2: 5
+
+-------df index 12899--------
+case1: 4	case2: 4
+
+-------df index 12901--------
+case1: 5	case2: 4
+
+-------df index 12902--------
+case1: 15	case2: 9
+
+-------df index 12909--------
+case1: 4	case2: 1
+
+-------df index 12931--------
+case1: 16	case2: 7
+
+-------df index 12935--------
+case1: 2	case2: 4
+
+-------df index 12956--------
+case1: 14	case2: 15
+
+-------df index 12959--------
+case1: 8	case2: 0
+
+-------df index 12969--------
+case1: 41	case2: 20
+
+-------df index 12972--------
+case1: 2	case2: 3
+
+-------df index 12973--------
+case1: 4	case2: 2
+
+-------df index 12982--------
+case1: 2	case2: 1
+
+-------df index 13009--------
+case1: 2	case2: 3
+
+-------df index 13010--------
+case1: 8	case2: 3
+
+-------df index 13015--------
+case1: 5	case2: 4
+
+-------df index 13036--------
+case1: 3	case2: 4
+
+-------df index 13042--------
+case1: 15	case2: 7
+
+-------df index 13048--------
+case1: 46	case2: 21
+
+-------df index 13049--------
+case1: 3	case2: 2
+
+-------df index 13058--------
+case1: 7	case2: 6
+
+-------df index 13067--------
+case1: 1	case2: 0
+
+-------df index 13082--------
+case1: 1	case2: 2
+
+-------df index 13102--------
+case1: 1	case2: 3
+
+-------df index 13143--------
+case1: 5	case2: 3
+
+-------df index 13145--------
+case1: 3	case2: 2
+
+-------df index 13158--------
+case1: 13	case2: 5
+
+-------df index 13162--------
+case1: 1	case2: 0
+
+-------df index 13163--------
+case1: 6	case2: 5
+
+-------df index 13172--------
+case1: 4	case2: 1
+
+-------df index 13178--------
+case1: 1	case2: 2
+
+-------df index 13210--------
+case1: 5	case2: 5
+
+-------df index 13256--------
+case1: 8	case2: 5
+
+-------df index 13259--------
+case1: 7	case2: 5
+
+-------df index 13269--------
+case1: 46	case2: 5
+
+-------df index 13279--------
+case1: 2	case2: 0
+
+-------df index 13284--------
+case1: 2	case2: 4
+
+-------df index 13286--------
+case1: 5	case2: 8
+
+-------df index 13303--------
+case1: 5	case2: 6
+
+-------df index 13311--------
+case1: 1	case2: 1
+
+-------df index 13313--------
+case1: 5	case2: 5
+
+-------df index 13315--------
+case1: 15	case2: 0
+
+-------df index 13316--------
+case1: 5	case2: 1
+
+-------df index 13320--------
+case1: 1	case2: 1
+
+-------df index 13335--------
+case1: 18	case2: 0
+
+-------df index 13341--------
+case1: 8	case2: 2
+
+-------df index 13370--------
+case1: 34	case2: 14
+
+-------df index 13388--------
+case1: 17	case2: 9
+
+-------df index 13401--------
+case1: 14	case2: 15
+
+-------df index 13406--------
+case1: 1	case2: 1
+
+-------df index 13409--------
+case1: 2	case2: 0
+
+-------df index 13411--------
+case1: 12	case2: 0
+
+-------df index 13439--------
+case1: 1	case2: 0
+
+-------df index 13443--------
+case1: 3	case2: 0
+
+-------df index 13448--------
+case1: 22	case2: 10
+
+-------df index 13450--------
+case1: 12	case2: 4
+
+-------df index 13463--------
+case1: 11	case2: 1
+
+-------df index 13464--------
+case1: 4	case2: 5
+
+-------df index 13474--------
+case1: 3	case2: 2
+
+-------df index 13489--------
+case1: 1	case2: 0
+
+-------df index 13490--------
+case1: 6	case2: 1
+
+-------df index 13493--------
+case1: 6	case2: 1
+
+-------df index 13525--------
+case1: 2	case2: 0
+
+-------df index 13527--------
+case1: 12	case2: 8
+
+-------df index 13536--------
+case1: 1	case2: 0
+
+-------df index 13544--------
+case1: 8	case2: 11
+
+-------df index 13554--------
+case1: 1	case2: 1
+
+-------df index 13556--------
+case1: 14	case2: 4
+
+-------df index 13564--------
+case1: 3	case2: 2
+
+-------df index 13565--------
+case1: 1	case2: 0
+
+-------df index 13571--------
+case1: 22	case2: 5
+
+-------df index 13581--------
+case1: 2	case2: 3
+
+-------df index 13584--------
+case1: 8	case2: 2
+
+-------df index 13595--------
+case1: 1	case2: 0
+
+-------df index 13626--------
+case1: 4	case2: 2
+
+-------df index 13633--------
+case1: 8	case2: 1
+
+-------df index 13648--------
+case1: 2	case2: 1
+
+-------df index 13651--------
+case1: 3	case2: 1
+
+-------df index 13681--------
+case1: 1	case2: 0
+
+-------df index 13732--------
+case1: 1	case2: 2
+
+-------df index 13737--------
+case1: 2	case2: 0
+
+-------df index 13739--------
+case1: 3	case2: 0
+
+-------df index 13771--------
+case1: 35	case2: 7
+
+-------df index 13776--------
+case1: 8	case2: 0
+
+-------df index 13782--------
+case1: 42	case2: 3
+
+-------df index 13796--------
+case1: 9	case2: 5
+
+-------df index 13798--------
+case1: 56	case2: 10
+
+-------df index 13809--------
+case1: 1	case2: 1
+
+-------df index 13832--------
+case1: 29	case2: 1
+
+-------df index 13852--------
+case1: 12	case2: 2
+
+-------df index 13853--------
+case1: 6	case2: 1
+
+-------df index 13856--------
+case1: 33	case2: 16
+
+-------df index 13866--------
+case1: 2	case2: 1
+
+-------df index 13868--------
+case1: 21	case2: 7
+
+-------df index 13881--------
+case1: 5	case2: 0
+
+-------df index 13891--------
+case1: 1	case2: 0
+
+-------df index 13897--------
+case1: 3	case2: 0
+
+-------df index 13906--------
+case1: 1	case2: 0
+
+-------df index 13914--------
+case1: 4	case2: 2
+
+-------df index 13928--------
+case1: 3	case2: 2
+
+-------df index 13941--------
+case1: 1	case2: 3
+
+-------df index 13968--------
+case1: 8	case2: 4
+
+-------df index 13985--------
+case1: 6	case2: 2
+
+-------df index 13989--------
+case1: 4	case2: 2
+
+-------df index 13994--------
+case1: 1	case2: 2
+
+-------df index 14011--------
+case1: 1	case2: 0
+
+-------df index 14025--------
+case1: 11	case2: 3
+
+-------df index 14033--------
+case1: 1	case2: 0
+
+-------df index 14051--------
+case1: 9	case2: 9
+
+-------df index 14052--------
+case1: 1	case2: 1
+
+-------df index 14053--------
+case1: 1	case2: 0
+
+-------df index 14054--------
+case1: 3	case2: 1
+
+-------df index 14056--------
+case1: 11	case2: 8
+
+-------df index 14067--------
+case1: 11	case2: 0
+
+-------df index 14074--------
+case1: 6	case2: 3
+
+-------df index 14104--------
+case1: 1	case2: 1
+
+-------df index 14105--------
+case1: 13	case2: 13
+
+-------df index 14113--------
+case1: 1	case2: 0
+
+-------df index 14114--------
+case1: 14	case2: 1
+
+-------df index 14138--------
+case1: 3	case2: 2
+
+-------df index 14140--------
+case1: 7	case2: 0
+
+-------df index 14150--------
+case1: 7	case2: 6
+
+-------df index 14155--------
+case1: 4	case2: 3
+
+-------df index 14180--------
+case1: 12	case2: 2
+
+-------df index 14206--------
+case1: 8	case2: 1
+
+-------df index 14226--------
+case1: 8	case2: 0
+
+-------df index 14236--------
+case1: 11	case2: 3
+
+-------df index 14263--------
+case1: 13	case2: 2
+
+-------df index 14280--------
+case1: 6	case2: 1
+
+-------df index 14291--------
+case1: 25	case2: 8
+
+-------df index 14294--------
+case1: 11	case2: 0
+
+-------df index 14305--------
+case1: 27	case2: 3
+
+-------df index 14308--------
+case1: 13	case2: 5
+
+-------df index 14319--------
+case1: 5	case2: 0
+
+-------df index 14338--------
+case1: 7	case2: 6
+
+-------df index 14366--------
+case1: 2	case2: 0
+
+-------df index 14402--------
+case1: 1	case2: 0
+
+-------df index 14408--------
+case1: 1	case2: 0
+
+-------df index 14427--------
+case1: 1	case2: 0
+
+-------df index 14428--------
+case1: 1	case2: 0
+
+-------df index 14429--------
+case1: 1	case2: 0
+
+-------df index 14431--------
+case1: 5	case2: 1
+
+-------df index 14443--------
+case1: 6	case2: 3
+
+-------df index 14458--------
+case1: 10	case2: 2
+
+-------df index 14462--------
+case1: 1	case2: 2
+
+-------df index 14490--------
+case1: 6	case2: 3
+
+-------df index 14513--------
+case1: 7	case2: 5
+
+-------df index 14528--------
+case1: 20	case2: 4
+
+-------df index 14530--------
+case1: 6	case2: 0
+
+-------df index 14537--------
+case1: 3	case2: 1
+
+-------df index 14546--------
+case1: 1	case2: 0
+
+-------df index 14548--------
+case1: 2	case2: 1
+
+-------df index 14569--------
+case1: 5	case2: 0
+
+-------df index 14575--------
+case1: 1	case2: 0
+
+-------df index 14587--------
+case1: 4	case2: 2
+
+-------df index 14588--------
+case1: 16	case2: 1
+
+-------df index 14606--------
+case1: 3	case2: 2
+
+-------df index 14608--------
+case1: 40	case2: 19
+
+-------df index 14632--------
+case1: 3	case2: 1
+
+-------df index 14637--------
+case1: 11	case2: 3
+
+-------df index 14639--------
+case1: 47	case2: 22
+
+-------df index 14644--------
+case1: 4	case2: 0
+
+-------df index 14662--------
+case1: 1	case2: 1
+
+-------df index 14693--------
+case1: 7	case2: 1
+
+-------df index 14709--------
+case1: 3	case2: 0
+
+-------df index 14724--------
+case1: 1	case2: 3
+
+-------df index 14795--------
+case1: 3	case2: 0
+
+-------df index 14798--------
+case1: 4	case2: 2
+
+-------df index 14811--------
+case1: 18	case2: 12
+
+-------df index 14825--------
+case1: 5	case2: 0
+
+-------df index 14840--------
+case1: 2	case2: 0
+
+-------df index 14847--------
+case1: 10	case2: 1
+
+-------df index 14851--------
+case1: 18	case2: 6
+
+-------df index 14860--------
+case1: 1	case2: 0
+
+-------df index 14875--------
+case1: 39	case2: 12
+
+-------df index 14877--------
+case1: 3	case2: 1
+
+-------df index 14881--------
+case1: 12	case2: 2
+
+-------df index 14889--------
+case1: 14	case2: 5
+
+-------df index 14909--------
+case1: 20	case2: 5
+
+-------df index 14914--------
+case1: 5	case2: 7
+
+-------df index 14924--------
+case1: 6	case2: 6
+
+-------df index 14941--------
+case1: 1	case2: 1
+
+-------df index 14947--------
+case1: 2	case2: 0
+
+-------df index 14948--------
+case1: 1	case2: 1
+
+-------df index 14976--------
+case1: 3	case2: 1
+
+-------df index 14981--------
+case1: 4	case2: 0
+
+-------df index 14985--------
+case1: 1	case2: 0
+
+-------df index 14992--------
+case1: 1	case2: 0
+
+-------df index 15008--------
+case1: 3	case2: 0
+
+-------df index 15025--------
+case1: 1	case2: 0
+
+-------df index 15036--------
+case1: 6	case2: 2
+
+-------df index 15041--------
+case1: 17	case2: 2
+
+-------df index 15059--------
+case1: 1	case2: 0
+
+-------df index 15060--------
+case1: 3	case2: 2
+
+-------df index 15083--------
+case1: 2	case2: 0
+
+-------df index 15087--------
+case1: 9	case2: 3
+
+-------df index 15092--------
+case1: 9	case2: 1
+
+-------df index 15114--------
+case1: 22	case2: 6
+
+-------df index 15117--------
+case1: 1	case2: 3
+
+-------df index 15123--------
+case1: 1	case2: 0
+
+-------df index 15125--------
+case1: 2	case2: 3
+
+-------df index 15133--------
+case1: 47	case2: 19
+
+-------df index 15146--------
+case1: 16	case2: 1
+
+-------df index 15149--------
+case1: 1	case2: 2
+
+-------df index 15152--------
+case1: 1	case2: 0
+
+-------df index 15173--------
+case1: 32	case2: 3
+
+-------df index 15186--------
+case1: 6	case2: 0
+
+-------df index 15190--------
+case1: 5	case2: 5
+
+-------df index 15211--------
+case1: 3	case2: 2
+
+-------df index 15220--------
+case1: 1	case2: 0
+
+-------df index 15251--------
+case1: 10	case2: 0
+
+-------df index 15264--------
+case1: 2	case2: 1
+
+-------df index 15266--------
+case1: 1	case2: 1
+
+-------df index 15275--------
+case1: 4	case2: 0
+
+-------df index 15279--------
+case1: 1	case2: 0
+
+-------df index 15280--------
+case1: 1	case2: 0
+
+-------df index 15302--------
+case1: 12	case2: 6
+
+-------df index 15318--------
+case1: 1	case2: 0
+
+-------df index 15328--------
+case1: 14	case2: 1
+
+-------df index 15363--------
+case1: 1	case2: 0
+
+-------df index 15373--------
+case1: 3	case2: 1
+
+-------df index 15385--------
+case1: 38	case2: 4
+
+-------df index 15390--------
+case1: 1	case2: 0
+
+-------df index 15401--------
+case1: 106	case2: 15
+
+-------df index 15403--------
+case1: 2	case2: 2
+
+-------df index 15407--------
+case1: 5	case2: 0
+
+-------df index 15429--------
+case1: 21	case2: 4
+
+-------df index 15431--------
+case1: 20	case2: 3
+
+-------df index 15454--------
+case1: 21	case2: 21
+
+-------df index 15458--------
+case1: 20	case2: 0
+
+-------df index 15473--------
+case1: 2	case2: 1
+
+-------df index 15477--------
+case1: 7	case2: 2
+
+-------df index 15480--------
+case1: 8	case2: 0
+
+-------df index 15493--------
+case1: 3	case2: 2
+
+-------df index 15540--------
+case1: 28	case2: 5
+
+-------df index 15597--------
+case1: 29	case2: 9
+
+-------df index 15599--------
+case1: 23	case2: 3
+
+-------df index 15606--------
+case1: 3	case2: 0
+
+-------df index 15636--------
+case1: 10	case2: 1
+
+-------df index 15647--------
+case1: 2	case2: 2
+
+-------df index 15649--------
+case1: 2	case2: 1
+
+-------df index 15650--------
+case1: 9	case2: 3
+
+-------df index 15681--------
+case1: 1	case2: 2
+
+-------df index 15695--------
+case1: 4	case2: 2
+
+-------df index 15699--------
+case1: 27	case2: 10
+
+-------df index 15708--------
+case1: 21	case2: 5
+
+-------df index 15727--------
+case1: 5	case2: 1
+
+-------df index 15734--------
+case1: 15	case2: 6
+
+-------df index 15740--------
+case1: 4	case2: 3
+
+-------df index 15743--------
+case1: 15	case2: 7
+
+-------df index 15764--------
+case1: 3	case2: 0
+
+-------df index 15782--------
+case1: 14	case2: 0
+
+-------df index 15799--------
+case1: 7	case2: 7
+
+-------df index 15808--------
+case1: 4	case2: 0
+
+-------df index 15817--------
+case1: 1	case2: 0
+
+-------df index 15825--------
+case1: 6	case2: 1
+
+-------df index 15833--------
+case1: 2	case2: 0
+
+-------df index 15834--------
+case1: 1	case2: 0
+
+-------df index 15854--------
+case1: 18	case2: 1
+
+-------df index 15871--------
+case1: 1	case2: 0
+
+-------df index 15877--------
+case1: 9	case2: 2
+
+-------df index 15879--------
+case1: 15	case2: 3
+
+-------df index 15907--------
+case1: 2	case2: 0
+
+-------df index 15908--------
+case1: 1	case2: 1
+
+-------df index 15910--------
+case1: 1	case2: 1
+
+-------df index 15912--------
+case1: 14	case2: 4
+
+-------df index 15923--------
+case1: 18	case2: 0
+
+-------df index 15931--------
+case1: 4	case2: 5
+
+-------df index 15946--------
+case1: 3	case2: 0
+
+-------df index 15970--------
+case1: 8	case2: 3
+
+-------df index 15984--------
+case1: 4	case2: 0
+
+-------df index 15989--------
+case1: 1	case2: 1
+
+-------df index 16009--------
+case1: 2	case2: 0
+
+-------df index 16025--------
+case1: 3	case2: 1
+
+-------df index 16028--------
+case1: 1	case2: 0
+
+-------df index 16030--------
+case1: 1	case2: 1
+
+-------df index 16044--------
+case1: 3	case2: 3
+
+-------df index 16064--------
+case1: 9	case2: 5
+
+-------df index 16073--------
+case1: 11	case2: 1
+
+-------df index 16075--------
+case1: 40	case2: 8
+
+-------df index 16098--------
+case1: 6	case2: 0
+
+-------df index 16115--------
+case1: 11	case2: 0
+
+-------df index 16127--------
+case1: 11	case2: 4
+
+-------df index 16139--------
+case1: 2	case2: 1
+
+-------df index 16141--------
+case1: 9	case2: 4
+
+-------df index 16151--------
+case1: 5	case2: 3
+
+-------df index 16162--------
+case1: 2	case2: 1
+
+-------df index 16164--------
+case1: 5	case2: 7
+
+-------df index 16182--------
+case1: 1	case2: 1
+
+-------df index 16189--------
+case1: 18	case2: 4
+
+-------df index 16194--------
+case1: 7	case2: 1
+
+-------df index 16198--------
+case1: 3	case2: 2
+
+-------df index 16204--------
+case1: 6	case2: 4
+
+-------df index 16207--------
+case1: 5	case2: 0
+
+-------df index 16225--------
+case1: 3	case2: 2
+
+-------df index 16230--------
+case1: 1	case2: 0
+
+-------df index 16274--------
+case1: 4	case2: 3
+
+-------df index 16275--------
+case1: 4	case2: 0
+
+-------df index 16280--------
+case1: 1	case2: 1
+
+-------df index 16282--------
+case1: 5	case2: 2
+
+-------df index 16290--------
+case1: 34	case2: 10
+
+-------df index 16306--------
+case1: 7	case2: 0
+
+-------df index 16307--------
+case1: 2	case2: 1
+
+-------df index 16322--------
+case1: 4	case2: 3
+
+-------df index 16334--------
+case1: 2	case2: 0
+
+-------df index 16342--------
+case1: 10	case2: 3
+
+-------df index 16349--------
+case1: 3	case2: 1
+
+-------df index 16377--------
+case1: 1	case2: 0
+
+-------df index 16388--------
+case1: 16	case2: 7
+
+-------df index 16389--------
+case1: 1	case2: 0
+
+-------df index 16402--------
+case1: 12	case2: 5
+
+-------df index 16412--------
+case1: 10	case2: 1
+
+-------df index 16413--------
+case1: 5	case2: 0
+
+-------df index 16432--------
+case1: 1	case2: 0
+
+-------df index 16434--------
+case1: 17	case2: 2
+
+-------df index 16436--------
+case1: 19	case2: 7
+
+-------df index 16447--------
+case1: 1	case2: 1
+
+-------df index 16448--------
+case1: 1	case2: 0
+
+-------df index 16453--------
+case1: 9	case2: 3
+
+-------df index 16497--------
+case1: 4	case2: 12
+
+-------df index 16545--------
+case1: 4	case2: 0
+
+-------df index 16560--------
+case1: 5	case2: 4
+
+-------df index 16569--------
+case1: 1	case2: 0
+
+-------df index 16570--------
+case1: 9	case2: 4
+
+-------df index 16575--------
+case1: 1	case2: 6
+
+-------df index 16602--------
+case1: 34	case2: 4
+
+-------df index 16603--------
+case1: 12	case2: 16
+
+-------df index 16618--------
+case1: 15	case2: 1
+
+-------df index 16625--------
+case1: 1	case2: 1
+
+-------df index 16645--------
+case1: 5	case2: 1
+
+-------df index 16660--------
+case1: 1	case2: 0
+
+-------df index 16663--------
+case1: 3	case2: 0
+
+-------df index 16664--------
+case1: 1	case2: 1
+
+-------df index 16665--------
+case1: 26	case2: 14
+
+-------df index 16684--------
+case1: 1	case2: 0
+
+-------df index 16694--------
+case1: 7	case2: 0
+
+-------df index 16714--------
+case1: 5	case2: 1
+
+-------df index 16723--------
+case1: 5	case2: 0
+
+-------df index 16727--------
+case1: 10	case2: 2
+
+-------df index 16735--------
+case1: 1	case2: 1
+
+-------df index 16738--------
+case1: 11	case2: 0
+
+-------df index 16741--------
+case1: 4	case2: 2
+
+-------df index 16744--------
+case1: 6	case2: 3
+
+-------df index 16757--------
+case1: 8	case2: 3
+
+-------df index 16764--------
+case1: 1	case2: 0
+
+-------df index 16766--------
+case1: 9	case2: 0
+
+-------df index 16769--------
+case1: 1	case2: 0
+
+-------df index 16774--------
+case1: 6	case2: 8
+
+-------df index 16775--------
+case1: 10	case2: 0
+
+-------df index 16798--------
+case1: 12	case2: 7
+
+-------df index 16813--------
+case1: 5	case2: 0
+
+-------df index 16822--------
+case1: 2	case2: 0
+
+-------df index 16825--------
+case1: 10	case2: 8
+
+-------df index 16836--------
+case1: 3	case2: 4
+
+-------df index 16840--------
+case1: 4	case2: 2
+
+-------df index 16843--------
+case1: 1	case2: 0
+
+-------df index 16856--------
+case1: 9	case2: 0
+
+-------df index 16876--------
+case1: 4	case2: 0
+
+-------df index 16877--------
+case1: 26	case2: 0
+
+-------df index 16878--------
+case1: 5	case2: 3
+
+-------df index 16904--------
+case1: 1	case2: 0
+
+-------df index 16905--------
+case1: 15	case2: 6
+
+-------df index 16907--------
+case1: 8	case2: 4
+
+-------df index 16933--------
+case1: 1	case2: 3
+
+-------df index 16956--------
+case1: 12	case2: 5
+
+-------df index 16960--------
+case1: 20	case2: 13
+
+-------df index 16961--------
+case1: 2	case2: 0
+
+-------df index 16962--------
+case1: 2	case2: 0
+
+-------df index 16984--------
+case1: 6	case2: 1
+
+-------df index 17018--------
+case1: 10	case2: 2
+
+-------df index 17046--------
+case1: 1	case2: 0
+
+-------df index 17059--------
+case1: 1	case2: 0
+
+-------df index 17060--------
+case1: 1	case2: 0
+
+-------df index 17071--------
+case1: 11	case2: 1
+
+-------df index 17079--------
+case1: 27	case2: 5
+
+-------df index 17081--------
+case1: 6	case2: 8
+
+-------df index 17086--------
+case1: 1	case2: 0
+
+-------df index 17087--------
+case1: 1	case2: 0
+
+-------df index 17111--------
+case1: 8	case2: 3
+
+-------df index 17114--------
+case1: 1	case2: 1
+
+-------df index 17118--------
+case1: 2	case2: 1
+
+-------df index 17153--------
+case1: 17	case2: 0
+
+-------df index 17161--------
+case1: 1	case2: 0
+
+-------df index 17170--------
+case1: 1	case2: 2
+
+-------df index 17172--------
+case1: 4	case2: 10
+
+-------df index 17175--------
+case1: 8	case2: 3
+
+-------df index 17188--------
+case1: 1	case2: 1
+
+-------df index 17205--------
+case1: 2	case2: 2
+
+-------df index 17226--------
+case1: 4	case2: 2
+
+-------df index 17235--------
+case1: 2	case2: 0
+
+-------df index 17236--------
+case1: 9	case2: 2
+
+-------df index 17238--------
+case1: 1	case2: 0
+
+-------df index 17250--------
+case1: 16	case2: 1
+
+-------df index 17299--------
+case1: 4	case2: 5
+
+-------df index 17300--------
+case1: 1	case2: 0
+
+-------df index 17310--------
+case1: 2	case2: 0
+
+-------df index 17323--------
+case1: 3	case2: 0
+
+-------df index 17357--------
+case1: 8	case2: 1
+
+-------df index 17365--------
+case1: 8	case2: 0
+
+-------df index 17389--------
+case1: 9	case2: 0
+
+-------df index 17400--------
+case1: 4	case2: 1
+
+-------df index 17401--------
+case1: 1	case2: 0
+
+-------df index 17412--------
+case1: 9	case2: 4
+
+-------df index 17413--------
+case1: 15	case2: 1
+
+-------df index 17414--------
+case1: 1	case2: 0
+
+-------df index 17415--------
+case1: 1	case2: 0
+
+-------df index 17452--------
+case1: 7	case2: 13
+
+-------df index 17470--------
+case1: 10	case2: 3
+
+-------df index 17475--------
+case1: 15	case2: 3
+
+-------df index 17483--------
+case1: 1	case2: 0
+
+-------df index 17484--------
+case1: 2	case2: 0
+
+-------df index 17485--------
+case1: 3	case2: 3
+
+-------df index 17486--------
+case1: 20	case2: 1
+
+-------df index 17489--------
+case1: 5	case2: 1
+
+-------df index 17491--------
+case1: 5	case2: 0
+
+-------df index 17500--------
+case1: 3	case2: 0
+
+-------df index 17517--------
+case1: 11	case2: 1
+
+-------df index 17519--------
+case1: 7	case2: 6
+
+-------df index 17520--------
+case1: 1	case2: 1
+
+-------df index 17525--------
+case1: 4	case2: 0
+
+-------df index 17534--------
+case1: 1	case2: 0
+
+-------df index 17536--------
+case1: 10	case2: 2
+
+-------df index 17550--------
+case1: 29	case2: 4
+
+-------df index 17553--------
+case1: 1	case2: 0
+
+-------df index 17559--------
+case1: 13	case2: 5
+
+-------df index 17566--------
+case1: 3	case2: 1
+
+-------df index 17567--------
+case1: 11	case2: 10
+
+-------df index 17570--------
+case1: 42	case2: 0
+
+-------df index 17579--------
+case1: 2	case2: 1
+
+-------df index 17586--------
+case1: 2	case2: 1
+
+-------df index 17590--------
+case1: 1	case2: 0
+
+-------df index 17608--------
+case1: 9	case2: 0
+
+-------df index 17611--------
+case1: 2	case2: 0
+
+-------df index 17617--------
+case1: 6	case2: 3
+
+-------df index 17623--------
+case1: 2	case2: 0
+
+-------df index 17626--------
+case1: 8	case2: 3
+
+-------df index 17627--------
+case1: 5	case2: 1
+
+-------df index 17633--------
+case1: 37	case2: 5
+
+-------df index 17635--------
+case1: 1	case2: 3
+
+-------df index 17645--------
+case1: 10	case2: 2
+
+-------df index 17669--------
+case1: 1	case2: 0
+
+-------df index 17671--------
+case1: 1	case2: 1
+
+-------df index 17687--------
+case1: 14	case2: 1
+
+-------df index 17701--------
+case1: 1	case2: 0
+
+-------df index 17705--------
+case1: 1	case2: 1
+
+-------df index 17716--------
+case1: 5	case2: 1
+
+-------df index 17724--------
+case1: 14	case2: 6
+
+-------df index 17728--------
+case1: 17	case2: 5
+
+-------df index 17732--------
+case1: 8	case2: 2
+
+-------df index 17737--------
+case1: 1	case2: 0
+
+-------df index 17739--------
+case1: 3	case2: 2
+
+-------df index 17753--------
+case1: 2	case2: 2
+
+-------df index 17757--------
+case1: 20	case2: 0
+
+-------df index 17759--------
+case1: 5	case2: 2
+
+-------df index 17776--------
+case1: 23	case2: 0
+
+-------df index 17781--------
+case1: 2	case2: 0
+
+-------df index 17786--------
+case1: 1	case2: 0
+
+-------df index 17805--------
+case1: 1	case2: 0
+
+-------df index 17835--------
+case1: 19	case2: 8
+
+-------df index 17849--------
+case1: 5	case2: 1
+
+-------df index 17854--------
+case1: 1	case2: 0
+
+-------df index 17864--------
+case1: 8	case2: 0
+
+-------df index 17921--------
+case1: 17	case2: 3
+
+-------df index 17952--------
+case1: 1	case2: 0
+
+-------df index 17954--------
+case1: 18	case2: 6
+
+-------df index 17967--------
+case1: 14	case2: 1
+
+-------df index 17971--------
+case1: 42	case2: 4
+
+-------df index 17973--------
+case1: 7	case2: 4
+
+-------df index 17981--------
+case1: 11	case2: 2
+
+-------df index 17987--------
+case1: 4	case2: 0
+
+-------df index 17988--------
+case1: 4	case2: 4
+
+-------df index 17990--------
+case1: 2	case2: 3
+
+-------df index 17995--------
+case1: 3	case2: 1
+
+-------df index 18002--------
+case1: 7	case2: 1
+
+-------df index 18023--------
+case1: 20	case2: 2
+
+-------df index 18040--------
+case1: 4	case2: 1
+
+-------df index 18043--------
+case1: 10	case2: 3
+
+-------df index 18052--------
+case1: 1	case2: 0
+
+-------df index 18061--------
+case1: 3	case2: 1
+
+-------df index 18089--------
+case1: 2	case2: 0
+
+-------df index 18105--------
+case1: 3	case2: 2
+
+-------df index 18106--------
+case1: 22	case2: 3
+
+-------df index 18116--------
+case1: 6	case2: 1
+
+-------df index 18133--------
+case1: 12	case2: 0
+
+-------df index 18166--------
+case1: 1	case2: 0
+
+-------df index 18168--------
+case1: 1	case2: 1
+
+-------df index 18170--------
+case1: 4	case2: 1
+
+-------df index 18180--------
+case1: 12	case2: 2
+
+-------df index 18194--------
+case1: 22	case2: 3
+
+-------df index 18209--------
+case1: 1	case2: 0
+
+-------df index 18222--------
+case1: 1	case2: 0
+
+-------df index 18229--------
+case1: 17	case2: 1
+
+-------df index 18232--------
+case1: 1	case2: 0
+
+-------df index 18249--------
+case1: 16	case2: 5
+
+-------df index 18268--------
+case1: 1	case2: 0
+
+-------df index 18272--------
+case1: 1	case2: 1
+
+-------df index 18315--------
+case1: 1	case2: 0
+
+-------df index 18319--------
+case1: 2	case2: 0
+
+-------df index 18323--------
+case1: 19	case2: 8
+
+-------df index 18327--------
+case1: 5	case2: 3
+
+-------df index 18328--------
+case1: 2	case2: 2
+
+-------df index 18367--------
+case1: 1	case2: 2
+
+-------df index 18370--------
+case1: 1	case2: 0
+
+-------df index 18371--------
+case1: 6	case2: 1
+
+-------df index 18373--------
+case1: 1	case2: 1
+
+-------df index 18379--------
+case1: 1	case2: 0
+
+-------df index 18380--------
+case1: 43	case2: 26
+
+-------df index 18390--------
+case1: 21	case2: 3
+
+-------df index 18392--------
+case1: 2	case2: 1
+
+-------df index 18393--------
+case1: 1	case2: 0
+
+-------df index 18399--------
+case1: 6	case2: 2
+
+-------df index 18415--------
+case1: 3	case2: 8
+
+-------df index 18418--------
+case1: 4	case2: 1
+
+-------df index 18454--------
+case1: 4	case2: 0
+
+-------df index 18484--------
+case1: 3	case2: 2
+
+-------df index 18485--------
+case1: 3	case2: 4
+
+-------df index 18499--------
+case1: 14	case2: 0
+
+-------df index 18510--------
+case1: 4	case2: 1
+
+-------df index 18520--------
+case1: 1	case2: 0
+
+-------df index 18537--------
+case1: 33	case2: 3
+
+-------df index 18543--------
+case1: 19	case2: 2
+
+-------df index 18549--------
+case1: 1	case2: 0
+
+-------df index 18554--------
+case1: 2	case2: 3
+
+-------df index 18564--------
+case1: 7	case2: 3
+
+-------df index 18582--------
+case1: 4	case2: 3
+
+-------df index 18585--------
+case1: 4	case2: 0
+
+-------df index 18588--------
+case1: 3	case2: 1
+
+-------df index 18598--------
+case1: 10	case2: 7
+
+-------df index 18600--------
+case1: 22	case2: 2
+
+-------df index 18602--------
+case1: 2	case2: 1
+
+-------df index 18617--------
+case1: 22	case2: 1
+
+-------df index 18618--------
+case1: 5	case2: 2
+
+-------df index 18619--------
+case1: 34	case2: 3
+
+-------df index 18661--------
+case1: 1	case2: 0
+
+-------df index 18663--------
+case1: 34	case2: 23
+
+-------df index 18665--------
+case1: 1	case2: 0
+
+-------df index 18686--------
+case1: 1	case2: 0
+
+-------df index 18691--------
+case1: 1	case2: 1
+
+-------df index 18694--------
+case1: 6	case2: 1
+
+-------df index 18722--------
+case1: 24	case2: 3
+
+-------df index 18757--------
+case1: 1	case2: 1
+
+-------df index 18758--------
+case1: 6	case2: 1
+
+-------df index 18789--------
+case1: 1	case2: 0
+
+-------df index 18790--------
+case1: 1	case2: 0
+
+-------df index 18802--------
+case1: 8	case2: 0
+
+-------df index 18803--------
+case1: 5	case2: 1
+
+-------df index 18813--------
+case1: 8	case2: 2
+
+-------df index 18829--------
+case1: 4	case2: 1
+
+-------df index 18852--------
+case1: 3	case2: 0
+
+-------df index 18878--------
+case1: 4	case2: 0
+
+-------df index 18880--------
+case1: 20	case2: 5
+
+-------df index 18890--------
+case1: 5	case2: 2
+
+-------df index 18896--------
+case1: 27	case2: 2
+
+-------df index 18897--------
+case1: 1	case2: 0
+
+-------df index 18899--------
+case1: 2	case2: 0
+
+-------df index 18901--------
+case1: 48	case2: 9
+
+-------df index 18904--------
+case1: 3	case2: 0
+
+-------df index 18918--------
+case1: 3	case2: 0
+
+-------df index 18924--------
+case1: 7	case2: 1
+
+-------df index 18932--------
+case1: 3	case2: 5
+
+-------df index 18933--------
+case1: 1	case2: 1
+
+-------df index 18963--------
+case1: 3	case2: 6
+
+-------df index 18964--------
+case1: 4	case2: 0
+
+-------df index 18965--------
+case1: 6	case2: 1
+
+-------df index 19004--------
+case1: 5	case2: 2
+
+-------df index 19013--------
+case1: 32	case2: 8
+
+-------df index 19018--------
+case1: 1	case2: 0
+
+-------df index 19031--------
+case1: 1	case2: 0
+
+-------df index 19034--------
+case1: 4	case2: 1
+
+-------df index 19055--------
+case1: 4	case2: 2
+
+-------df index 19059--------
+case1: 4	case2: 0
+
+-------df index 19061--------
+case1: 34	case2: 6
+
+-------df index 19068--------
+case1: 1	case2: 1
+
+-------df index 19071--------
+case1: 1	case2: 0
+
+-------df index 19085--------
+case1: 10	case2: 3
+
+-------df index 19093--------
+case1: 1	case2: 2
+
+-------df index 19101--------
+case1: 1	case2: 0
+
+-------df index 19102--------
+case1: 3	case2: 3
+
+-------df index 19111--------
+case1: 3	case2: 0
+
+-------df index 19126--------
+case1: 18	case2: 1
+
+-------df index 19131--------
+case1: 3	case2: 6
+
+-------df index 19133--------
+case1: 10	case2: 2
+
+-------df index 19148--------
+case1: 1	case2: 0
+
+-------df index 19155--------
+case1: 5	case2: 1
+
+-------df index 19193--------
+case1: 4	case2: 1
+
+-------df index 19197--------
+case1: 5	case2: 0
+
+-------df index 19201--------
+case1: 3	case2: 0
+
+-------df index 19203--------
+case1: 15	case2: 6
+
+-------df index 19231--------
+case1: 3	case2: 1
+
+-------df index 19257--------
+case1: 1	case2: 0
+
+-------df index 19258--------
+case1: 5	case2: 0
+
+-------df index 19266--------
+case1: 1	case2: 0
+
+-------df index 19268--------
+case1: 4	case2: 2
+
+-------df index 19280--------
+case1: 7	case2: 0
+
+-------df index 19296--------
+case1: 13	case2: 6
+
+-------df index 19300--------
+case1: 4	case2: 1
+
+-------df index 19302--------
+case1: 1	case2: 0
+
+-------df index 19331--------
+case1: 17	case2: 4
+
+-------df index 19335--------
+case1: 3	case2: 1
+
+-------df index 19351--------
+case1: 7	case2: 1
+
+-------df index 19357--------
+case1: 16	case2: 6
+
+-------df index 19358--------
+case1: 2	case2: 0
+
+-------df index 19360--------
+case1: 71	case2: 15
+
+-------df index 19361--------
+case1: 7	case2: 0
+
+-------df index 19368--------
+case1: 1	case2: 1
+
+-------df index 19403--------
+case1: 4	case2: 1
+
+-------df index 19405--------
+case1: 7	case2: 1
+
+-------df index 19415--------
+case1: 3	case2: 0
+
+-------df index 19419--------
+case1: 17	case2: 1
+
+-------df index 19449--------
+case1: 3	case2: 0
+
+-------df index 19468--------
+case1: 1	case2: 0
+
+-------df index 19485--------
+case1: 1	case2: 0
+
+-------df index 19491--------
+case1: 3	case2: 0
+
+-------df index 19492--------
+case1: 2	case2: 0
+
+-------df index 19493--------
+case1: 1	case2: 0
+
+-------df index 19515--------
+case1: 8	case2: 0
+
+-------df index 19534--------
+case1: 8	case2: 0
+
+-------df index 19539--------
+case1: 5	case2: 1
+
+-------df index 19551--------
+case1: 52	case2: 6
+
+-------df index 19556--------
+case1: 1	case2: 0
+
+-------df index 19559--------
+case1: 3	case2: 0
+
+-------df index 19563--------
+case1: 1	case2: 0
+
+-------df index 19576--------
+case1: 3	case2: 2
+
+-------df index 19580--------
+case1: 10	case2: 5
+
+-------df index 19607--------
+case1: 23	case2: 2
+
+-------df index 19612--------
+case1: 4	case2: 0
+
+-------df index 19627--------
+case1: 7	case2: 1
+
+-------df index 19628--------
+case1: 3	case2: 0
+
+-------df index 19650--------
+case1: 45	case2: 4
+
+-------df index 19654--------
+case1: 8	case2: 0
+
+-------df index 19673--------
+case1: 2	case2: 3
+
+-------df index 19685--------
+case1: 2	case2: 1
+
+-------df index 19687--------
+case1: 1	case2: 0
+
+-------df index 19693--------
+case1: 10	case2: 1
+
+-------df index 19699--------
+case1: 5	case2: 0
+
+-------df index 19702--------
+case1: 8	case2: 2
+
+-------df index 19718--------
+case1: 1	case2: 2
+
+-------df index 19741--------
+case1: 3	case2: 4
+
+-------df index 19742--------
+case1: 1	case2: 2
+
+-------df index 19751--------
+case1: 8	case2: 2
+
+-------df index 19772--------
+case1: 2	case2: 0
+
+-------df index 19773--------
+case1: 14	case2: 2
+
+-------df index 19774--------
+case1: 11	case2: 1
+
+-------df index 19790--------
+case1: 3	case2: 1
+
+-------df index 19797--------
+case1: 5	case2: 1
+
+-------df index 19801--------
+case1: 20	case2: 11
+
+-------df index 19806--------
+case1: 9	case2: 0
+
+-------df index 19807--------
+case1: 1	case2: 0
+
+-------df index 19820--------
+case1: 6	case2: 0
+
+-------df index 19830--------
+case1: 3	case2: 0
+
+-------df index 19838--------
+case1: 1	case2: 0
+
+-------df index 19839--------
+case1: 2	case2: 0
+
+-------df index 19841--------
+case1: 5	case2: 0
+
+-------df index 19854--------
+case1: 1	case2: 0
+
+-------df index 19861--------
+case1: 16	case2: 7
+
+-------df index 19870--------
+case1: 15	case2: 0
+
+-------df index 19874--------
+case1: 1	case2: 0
+
+-------df index 19875--------
+case1: 10	case2: 0
+
+-------df index 19879--------
+case1: 62	case2: 14
+
+-------df index 19896--------
+case1: 13	case2: 0
+
+-------df index 19897--------
+case1: 1	case2: 0
+
+-------df index 19906--------
+case1: 10	case2: 6
+
+-------df index 19909--------
+case1: 14	case2: 3
+
+-------df index 19925--------
+case1: 10	case2: 1
+
+-------df index 19929--------
+case1: 8	case2: 3
+
+-------df index 19952--------
+case1: 1	case2: 0
+
+-------df index 19958--------
+case1: 1	case2: 0
+
+-------df index 19959--------
+case1: 1	case2: 0
+
+-------df index 19961--------
+case1: 1	case2: 0
+
+-------df index 19968--------
+case1: 4	case2: 0
+
+-------df index 19989--------
+case1: 1	case2: 5
+
+-------df index 19996--------
+case1: 1	case2: 0
+
+-------df index 19999--------
+case1: 1	case2: 1
+
+-------df index 20004--------
+case1: 1	case2: 1
+
+-------df index 20009--------
+case1: 1	case2: 0
+
+-------df index 20012--------
+case1: 7	case2: 3
+
+-------df index 20015--------
+case1: 1	case2: 0
+
+-------df index 20027--------
+case1: 23	case2: 5
+
+-------df index 20038--------
+case1: 1	case2: 0
+
+-------df index 20043--------
+case1: 1	case2: 0
+
+-------df index 20044--------
+case1: 5	case2: 0
+
+-------df index 20052--------
+case1: 5	case2: 2
+
+-------df index 20053--------
+case1: 1	case2: 0
+
+-------df index 20055--------
+case1: 2	case2: 0
+
+-------df index 20060--------
+case1: 3	case2: 1
+
+-------df index 20063--------
+case1: 3	case2: 1
+
+-------df index 20071--------
+case1: 7	case2: 0
+
+-------df index 20112--------
+case1: 8	case2: 1
+
+-------df index 20121--------
+case1: 21	case2: 1
+
+-------df index 20123--------
+case1: 10	case2: 3
+
+-------df index 20129--------
+case1: 11	case2: 1
+
+-------df index 20133--------
+case1: 1	case2: 0
+
+-------df index 20138--------
+case1: 1	case2: 0
+
+-------df index 20175--------
+case1: 1	case2: 0
+
+-------df index 20176--------
+case1: 1	case2: 0
+
+-------df index 20178--------
+case1: 2	case2: 0
+
+-------df index 20179--------
+case1: 1	case2: 2
+
+-------df index 20181--------
+case1: 2	case2: 0
+
+-------df index 20183--------
+case1: 12	case2: 0
+
+-------df index 20189--------
+case1: 2	case2: 0
+
+-------df index 20190--------
+case1: 5	case2: 3
+
+-------df index 20196--------
+case1: 8	case2: 0
+
+-------df index 20197--------
+case1: 8	case2: 2
+
+-------df index 20202--------
+case1: 2	case2: 0
+
+-------df index 20206--------
+case1: 20	case2: 5
+
+-------df index 20225--------
+case1: 58	case2: 16
+
+-------df index 20227--------
+case1: 12	case2: 1
+
+-------df index 20242--------
+case1: 2	case2: 1
+
+-------df index 20256--------
+case1: 1	case2: 0
+
+-------df index 20257--------
+case1: 1	case2: 0
+
+-------df index 20259--------
+case1: 1	case2: 0
+
+-------df index 20266--------
+case1: 1	case2: 0
+
+-------df index 20273--------
+case1: 1	case2: 0
+
+-------df index 20285--------
+case1: 13	case2: 0
+
+-------df index 20287--------
+case1: 2	case2: 2
+
+-------df index 20297--------
+case1: 4	case2: 8
+
+-------df index 20300--------
+case1: 3	case2: 0
+
+-------df index 20305--------
+case1: 10	case2: 11
+
+-------df index 20310--------
+case1: 2	case2: 2
+
+-------df index 20317--------
+case1: 81	case2: 16
+
+-------df index 20319--------
+case1: 2	case2: 1
+
+-------df index 20321--------
+case1: 8	case2: 4
+
+-------df index 20332--------
+case1: 4	case2: 0
+
+-------df index 20333--------
+case1: 1	case2: 1
+
+-------df index 20336--------
+case1: 15	case2: 4
+
+-------df index 20361--------
+case1: 9	case2: 0
+
+-------df index 20379--------
+case1: 1	case2: 0
+
+-------df index 20413--------
+case1: 1	case2: 0
+
+-------df index 20418--------
+case1: 1	case2: 1
+
+-------df index 20426--------
+case1: 1	case2: 0
+
+-------df index 20435--------
+case1: 2	case2: 2
+
+-------df index 20437--------
+case1: 35	case2: 11
+
+-------df index 20439--------
+case1: 1	case2: 0
+
+-------df index 20443--------
+case1: 8	case2: 0
+
+-------df index 20457--------
+case1: 7	case2: 0
+
+-------df index 20459--------
+case1: 2	case2: 0
+
+-------df index 20464--------
+case1: 1	case2: 0
+
+-------df index 20478--------
+case1: 5	case2: 0
+
+-------df index 20486--------
+case1: 2	case2: 1
+
+-------df index 20490--------
+case1: 8	case2: 2
+
+-------df index 20491--------
+case1: 1	case2: 0
+
+-------df index 20499--------
+case1: 2	case2: 1
+
+-------df index 20508--------
+case1: 5	case2: 1
+
+-------df index 20515--------
+case1: 55	case2: 13
+
+-------df index 20538--------
+case1: 1	case2: 1
+
+-------df index 20592--------
+case1: 26	case2: 6
+
+-------df index 20598--------
+case1: 30	case2: 1
+
+-------df index 20613--------
+case1: 10	case2: 0
+
+-------df index 20625--------
+case1: 22	case2: 7
+
+-------df index 20628--------
+case1: 10	case2: 0
+
+-------df index 20635--------
+case1: 6	case2: 6
+
+-------df index 20640--------
+case1: 3	case2: 0
+
+-------df index 20644--------
+case1: 4	case2: 0
+
+-------df index 20664--------
+case1: 1	case2: 0
+
+-------df index 20667--------
+case1: 1	case2: 0
+
+-------df index 20688--------
+case1: 5	case2: 0
+
+-------df index 20689--------
+case1: 12	case2: 0
+
+-------df index 20700--------
+case1: 4	case2: 0
+
+-------df index 20705--------
+case1: 8	case2: 0
+
+-------df index 20717--------
+case1: 2	case2: 3
+
+-------df index 20719--------
+case1: 8	case2: 0
+
+-------df index 20740--------
+case1: 2	case2: 0
+
+-------df index 20749--------
+case1: 18	case2: 0
+
+-------df index 20752--------
+case1: 3	case2: 1
+
+-------df index 20764--------
+case1: 8	case2: 5
+
+-------df index 20802--------
+case1: 1	case2: 0
+
+-------df index 20805--------
+case1: 3	case2: 0
+
+-------df index 20809--------
+case1: 1	case2: 1
+
+-------df index 20815--------
+case1: 1	case2: 0
+
+-------df index 20837--------
+case1: 1	case2: 0
+
+-------df index 20838--------
+case1: 15	case2: 7
+
+-------df index 20863--------
+case1: 3	case2: 0
+
+-------df index 20871--------
+case1: 1	case2: 0
+
+-------df index 20873--------
+case1: 17	case2: 4
+
+-------df index 20889--------
+case1: 9	case2: 0
+
+-------df index 20920--------
+case1: 26	case2: 5
+
+-------df index 20926--------
+case1: 8	case2: 0
+
+-------df index 20945--------
+case1: 12	case2: 4
+
+-------df index 20952--------
+case1: 1	case2: 0
+
+-------df index 20956--------
+case1: 3	case2: 0
+
+-------df index 20958--------
+case1: 7	case2: 0
+
+-------df index 20998--------
+case1: 10	case2: 0
+
+-------df index 21001--------
+case1: 1	case2: 2
+
+-------df index 21002--------
+case1: 4	case2: 0
+
+-------df index 21003--------
+case1: 3	case2: 0
+
+-------df index 21020--------
+case1: 1	case2: 5
+
+-------df index 21030--------
+case1: 9	case2: 0
+
+-------df index 21032--------
+case1: 1	case2: 0
+
+-------df index 21033--------
+case1: 1	case2: 0
+
+-------df index 21040--------
+case1: 4	case2: 3
+
+-------df index 21079--------
+case1: 5	case2: 3
+
+-------df index 21094--------
+case1: 15	case2: 4
+
+-------df index 21114--------
+case1: 4	case2: 0
+
+-------df index 21123--------
+case1: 14	case2: 2
+
+-------df index 21134--------
+case1: 21	case2: 9
+
+-------df index 21145--------
+case1: 19	case2: 0
+
+-------df index 21149--------
+case1: 5	case2: 1
+
+-------df index 21161--------
+case1: 5	case2: 3
+
+-------df index 21167--------
+case1: 6	case2: 0
+
+-------df index 21169--------
+case1: 2	case2: 0
+
+-------df index 21171--------
+case1: 44	case2: 5
+
+-------df index 21187--------
+case1: 25	case2: 4
+
+-------df index 21189--------
+case1: 6	case2: 0
+
+-------df index 21205--------
+case1: 6	case2: 1
+
+-------df index 21214--------
+case1: 1	case2: 0
+
+-------df index 21240--------
+case1: 1	case2: 0
+
+-------df index 21242--------
+case1: 7	case2: 3
+
+-------df index 21246--------
+case1: 26	case2: 5
+
+-------df index 21250--------
+case1: 2	case2: 0
+
+-------df index 21251--------
+case1: 4	case2: 7
+
+-------df index 21252--------
+case1: 4	case2: 0
+
+-------df index 21258--------
+case1: 8	case2: 1
+
+-------df index 21267--------
+case1: 3	case2: 0
+
+-------df index 21272--------
+case1: 8	case2: 2
+
+-------df index 21292--------
+case1: 7	case2: 2
+
+-------df index 21293--------
+case1: 5	case2: 0
+
+-------df index 21301--------
+case1: 2	case2: 2
+
+-------df index 21312--------
+case1: 7	case2: 2
+
+-------df index 21317--------
+case1: 1	case2: 1
+
+-------df index 21335--------
+case1: 13	case2: 2
+
+-------df index 21355--------
+case1: 1	case2: 1
+
+-------df index 21362--------
+case1: 13	case2: 1
+
+-------df index 21364--------
+case1: 1	case2: 0
+
+-------df index 21387--------
+case1: 10	case2: 8
+
+-------df index 21395--------
+case1: 5	case2: 1
+
+-------df index 21396--------
+case1: 4	case2: 0
+
+-------df index 21412--------
+case1: 6	case2: 4
+
+-------df index 21424--------
+case1: 10	case2: 0
+
+-------df index 21437--------
+case1: 9	case2: 0
+
+-------df index 21462--------
+case1: 3	case2: 0
+
+-------df index 21471--------
+case1: 2	case2: 0
+
+-------df index 21478--------
+case1: 1	case2: 0
+
+-------df index 21480--------
+case1: 6	case2: 0
+
+-------df index 21481--------
+case1: 4	case2: 0
+
+-------df index 21482--------
+case1: 4	case2: 0
+
+-------df index 21485--------
+case1: 7	case2: 3
+
+-------df index 21489--------
+case1: 1	case2: 0
+
+-------df index 21491--------
+case1: 8	case2: 1
+
+-------df index 21493--------
+case1: 2	case2: 0
+
+-------df index 21503--------
+case1: 9	case2: 0
+
+-------df index 21511--------
+case1: 6	case2: 0
+
+-------df index 21520--------
+case1: 7	case2: 0
+
+-------df index 21526--------
+case1: 1	case2: 0
+
+-------df index 21533--------
+case1: 11	case2: 7
+
+-------df index 21551--------
+case1: 3	case2: 1
+
+-------df index 21554--------
+case1: 3	case2: 0
+
+-------df index 21557--------
+case1: 8	case2: 6
+
+-------df index 21558--------
+case1: 1	case2: 0
+
+-------df index 21564--------
+case1: 1	case2: 0
+
+-------df index 21571--------
+case1: 17	case2: 1
+
+-------df index 21586--------
+case1: 7	case2: 1
+
+-------df index 21590--------
+case1: 1	case2: 0
+
+-------df index 21593--------
+case1: 3	case2: 1
+
+-------df index 21626--------
+case1: 4	case2: 1
+
+-------df index 21630--------
+case1: 3	case2: 0
+
+-------df index 21633--------
+case1: 4	case2: 0
+
+-------df index 21644--------
+case1: 4	case2: 0
+
+-------df index 21645--------
+case1: 1	case2: 0
+
+-------df index 21655--------
+case1: 4	case2: 1
+
+-------df index 21656--------
+case1: 1	case2: 0
+
+-------df index 21657--------
+case1: 1	case2: 0
+
+-------df index 21659--------
+case1: 2	case2: 1
+
+-------df index 21667--------
+case1: 1	case2: 3
+
+-------df index 21686--------
+case1: 4	case2: 0
+
+-------df index 21700--------
+case1: 20	case2: 10
+
+-------df index 21708--------
+case1: 2	case2: 0
+
+-------df index 21712--------
+case1: 1	case2: 0
+
+-------df index 21733--------
+case1: 8	case2: 3
+
+-------df index 21739--------
+case1: 1	case2: 0
+
+-------df index 21763--------
+case1: 14	case2: 8
+
+-------df index 21764--------
+case1: 10	case2: 10
+
+-------df index 21782--------
+case1: 1	case2: 0
+
+-------df index 21784--------
+case1: 3	case2: 1
+
+-------df index 21788--------
+case1: 1	case2: 0
+
+-------df index 21789--------
+case1: 1	case2: 0
+
+-------df index 21824--------
+case1: 2	case2: 0
+
+-------df index 21838--------
+case1: 1	case2: 0
+
+-------df index 21840--------
+case1: 67	case2: 7
+
+-------df index 21842--------
+case1: 29	case2: 9
+
+-------df index 21843--------
+case1: 1	case2: 0
+
+-------df index 21854--------
+case1: 1	case2: 0
+
+-------df index 21856--------
+case1: 1	case2: 0
+
+-------df index 21857--------
+case1: 41	case2: 6
+
+-------df index 21858--------
+case1: 2	case2: 0
+
+-------df index 21881--------
+case1: 1	case2: 0
+
+-------df index 21884--------
+case1: 2	case2: 1
+
+-------df index 21908--------
+case1: 3	case2: 1
+
+-------df index 21913--------
+case1: 1	case2: 0
+
+-------df index 21915--------
+case1: 3	case2: 0
+
+-------df index 21919--------
+case1: 4	case2: 3
+
+-------df index 21923--------
+case1: 16	case2: 1
+
+-------df index 21924--------
+case1: 1	case2: 0
+
+-------df index 21927--------
+case1: 8	case2: 6
+
+-------df index 21929--------
+case1: 1	case2: 0
+
+-------df index 21954--------
+case1: 2	case2: 2
+
+-------df index 21960--------
+case1: 1	case2: 0
+
+-------df index 21968--------
+case1: 1	case2: 0
+
+-------df index 21971--------
+case1: 2	case2: 0
+
+-------df index 21973--------
+case1: 4	case2: 2
+
+-------df index 21974--------
+case1: 1	case2: 0
+
+-------df index 21979--------
+case1: 14	case2: 1
+
+-------df index 21982--------
+case1: 1	case2: 1
+
+-------df index 22007--------
+case1: 39	case2: 10
+
+-------df index 22015--------
+case1: 1	case2: 0
+
+-------df index 22022--------
+case1: 1	case2: 0
+
+-------df index 22045--------
+case1: 2	case2: 1
+
+-------df index 22057--------
+case1: 8	case2: 4
+
+-------df index 22060--------
+case1: 19	case2: 0
+
+-------df index 22069--------
+case1: 11	case2: 1
+
+-------df index 22070--------
+case1: 1	case2: 0
+
+-------df index 22099--------
+case1: 4	case2: 0
+
+-------df index 22100--------
+case1: 1	case2: 2
+
+-------df index 22111--------
+case1: 7	case2: 0
+
+-------df index 22114--------
+case1: 2	case2: 0
+
+-------df index 22131--------
+case1: 8	case2: 1
+
+-------df index 22145--------
+case1: 56	case2: 7
+
+-------df index 22146--------
+case1: 75	case2: 9
+
+-------df index 22149--------
+case1: 5	case2: 0
+
+-------df index 22155--------
+case1: 1	case2: 0
+
+-------df index 22169--------
+case1: 19	case2: 2
+
+-------df index 22177--------
+case1: 2	case2: 1
+
+-------df index 22181--------
+case1: 3	case2: 0
+
+-------df index 22191--------
+case1: 5	case2: 1
+
+-------df index 22192--------
+case1: 7	case2: 3
+
+-------df index 22193--------
+case1: 4	case2: 1
+
+-------df index 22204--------
+case1: 1	case2: 0
+
+-------df index 22214--------
+case1: 12	case2: 7
+
+-------df index 22220--------
+case1: 1	case2: 0
+
+-------df index 22221--------
+case1: 1	case2: 0
+
+-------df index 22228--------
+case1: 2	case2: 0
+
+-------df index 22234--------
+case1: 2	case2: 0
+
+-------df index 22265--------
+case1: 3	case2: 0
+
+-------df index 22272--------
+case1: 56	case2: 12
+
+-------df index 22274--------
+case1: 3	case2: 0
+
+-------df index 22284--------
+case1: 32	case2: 1
+
+-------df index 22301--------
+case1: 1	case2: 0
+
+-------df index 22307--------
+case1: 1	case2: 0
+
+-------df index 22311--------
+case1: 1	case2: 0
+
+-------df index 22313--------
+case1: 13	case2: 1
+
+-------df index 22320--------
+case1: 3	case2: 0
+
+-------df index 22332--------
+case1: 6	case2: 0
+
+-------df index 22335--------
+case1: 1	case2: 0
+
+-------df index 22339--------
+case1: 7	case2: 0
+
+-------df index 22344--------
+case1: 1	case2: 0
+
+-------df index 22350--------
+case1: 1	case2: 0
+
+-------df index 22352--------
+case1: 1	case2: 0
+
+-------df index 22354--------
+case1: 7	case2: 1
+
+-------df index 22358--------
+case1: 10	case2: 0
+
+-------df index 22382--------
+case1: 1	case2: 0
+
+-------df index 22404--------
+case1: 2	case2: 0
+
+-------df index 22413--------
+case1: 3	case2: 0
+
+-------df index 22416--------
+case1: 5	case2: 0
+
+-------df index 22417--------
+case1: 8	case2: 5
+
+-------df index 22420--------
+case1: 1	case2: 0
+
+-------df index 22433--------
+case1: 10	case2: 5
+
+-------df index 22435--------
+case1: 3	case2: 1
+
+-------df index 22442--------
+case1: 12	case2: 3
+
+-------df index 22465--------
+case1: 6	case2: 0
+
+-------df index 22466--------
+case1: 2	case2: 0
+
+-------df index 22467--------
+case1: 1	case2: 0
+
+-------df index 22473--------
+case1: 1	case2: 0
+
+-------df index 22475--------
+case1: 10	case2: 0
+
+-------df index 22476--------
+case1: 8	case2: 0
+
+-------df index 22480--------
+case1: 6	case2: 1
+
+-------df index 22482--------
+case1: 5	case2: 1
+
+-------df index 22483--------
+case1: 5	case2: 1
+
+-------df index 22487--------
+case1: 1	case2: 0
+
+-------df index 22504--------
+case1: 7	case2: 0
+
+-------df index 22507--------
+case1: 7	case2: 2
+
+-------df index 22525--------
+case1: 1	case2: 0
+
+-------df index 22526--------
+case1: 6	case2: 1
+
+-------df index 22531--------
+case1: 3	case2: 0
+
+-------df index 22553--------
+case1: 1	case2: 0
+
+-------df index 22559--------
+case1: 2	case2: 1
+
+-------df index 22563--------
+case1: 1	case2: 0
+
+-------df index 22586--------
+case1: 60	case2: 17
+
+-------df index 22588--------
+case1: 6	case2: 2
+
+-------df index 22589--------
+case1: 3	case2: 0
+
+-------df index 22605--------
+case1: 4	case2: 4
+
+-------df index 22637--------
+case1: 1	case2: 0
+
+-------df index 22639--------
+case1: 1	case2: 0
+
+-------df index 22642--------
+case1: 4	case2: 1
+
+-------df index 22643--------
+case1: 4	case2: 1
+
+-------df index 22647--------
+case1: 13	case2: 1
+
+-------df index 22652--------
+case1: 3	case2: 2
+
+-------df index 22655--------
+case1: 2	case2: 0
+
+-------df index 22666--------
+case1: 1	case2: 0
+
+-------df index 22669--------
+case1: 4	case2: 0
+
+-------df index 22674--------
+case1: 1	case2: 0
+
+-------df index 22675--------
+case1: 1	case2: 0
+
+-------df index 22679--------
+case1: 1	case2: 0
+
+-------df index 22680--------
+case1: 1	case2: 0
+
+-------df index 22686--------
+case1: 13	case2: 0
+
+-------df index 22696--------
+case1: 18	case2: 0
+
+-------df index 22698--------
+case1: 3	case2: 0
+
+-------df index 22699--------
+case1: 10	case2: 4
+
+-------df index 22722--------
+case1: 1	case2: 0
+
+-------df index 22737--------
+case1: 8	case2: 0
+
+-------df index 22743--------
+case1: 20	case2: 9
+
+-------df index 22749--------
+case1: 9	case2: 0
+
+-------df index 22755--------
+case1: 1	case2: 0
+
+-------df index 22760--------
+case1: 5	case2: 1
+
+-------df index 22779--------
+case1: 10	case2: 0
+
+-------df index 22788--------
+case1: 1	case2: 0
+
+-------df index 22791--------
+case1: 36	case2: 13
+
+-------df index 22829--------
+case1: 1	case2: 0
+
+-------df index 22830--------
+case1: 1	case2: 0
+
+-------df index 22831--------
+case1: 1	case2: 0
+
+-------df index 22840--------
+case1: 19	case2: 4
+
+-------df index 22852--------
+case1: 1	case2: 2
+
+-------df index 22862--------
+case1: 1	case2: 0
+
+-------df index 22869--------
+case1: 1	case2: 3
+
+-------df index 22871--------
+case1: 9	case2: 1
+
+-------df index 22873--------
+case1: 3	case2: 0
+
+-------df index 22876--------
+case1: 4	case2: 1
+
+-------df index 22877--------
+case1: 1	case2: 0
+
+-------df index 22891--------
+case1: 4	case2: 0
+
+-------df index 22900--------
+case1: 1	case2: 0
+
+-------df index 22932--------
+case1: 10	case2: 1
+
+-------df index 22947--------
+case1: 10	case2: 10
+
+-------df index 22949--------
+case1: 1	case2: 0
+
+-------df index 22951--------
+case1: 6	case2: 3
+
+-------df index 22952--------
+case1: 2	case2: 0
+
+-------df index 22960--------
+case1: 18	case2: 1
+
+-------df index 22967--------
+case1: 3	case2: 0
+
+-------df index 22968--------
+case1: 1	case2: 0
+
+-------df index 22980--------
+case1: 1	case2: 0
+
+-------df index 23014--------
+case1: 1	case2: 0
+
+-------df index 23015--------
+case1: 6	case2: 0
+
+-------df index 23016--------
+case1: 1	case2: 0
+
+-------df index 23028--------
+case1: 29	case2: 19
+
+-------df index 23033--------
+case1: 9	case2: 0
+
+-------df index 23035--------
+case1: 14	case2: 1
+
+-------df index 23038--------
+case1: 34	case2: 12
+
+-------df index 23045--------
+case1: 20	case2: 11
+
+-------df index 23056--------
+case1: 7	case2: 1
+
+-------df index 23057--------
+case1: 18	case2: 4
+
+-------df index 23065--------
+case1: 2	case2: 1
+
+-------df index 23092--------
+case1: 1	case2: 1
+
+-------df index 23093--------
+case1: 1	case2: 0
+
+-------df index 23095--------
+case1: 4	case2: 2
+
+-------df index 23096--------
+case1: 1	case2: 2
+
+-------df index 23112--------
+case1: 9	case2: 1
+
+-------df index 23128--------
+case1: 2	case2: 0
+
+-------df index 23130--------
+case1: 12	case2: 2
+
+-------df index 23138--------
+case1: 7	case2: 1
+
+-------df index 23141--------
+case1: 1	case2: 1
+
+-------df index 23149--------
+case1: 2	case2: 0
+
+-------df index 23163--------
+case1: 28	case2: 0
+
+-------df index 23179--------
+case1: 1	case2: 0
+
+-------df index 23191--------
+case1: 2	case2: 0
+
+-------df index 23193--------
+case1: 10	case2: 2
+
+-------df index 23203--------
+case1: 2	case2: 1
+
+-------df index 23218--------
+case1: 4	case2: 0
+
+-------df index 23221--------
+case1: 10	case2: 1
+
+-------df index 23226--------
+case1: 15	case2: 0
+
+-------df index 23229--------
+case1: 1	case2: 0
+
+-------df index 23238--------
+case1: 1	case2: 0
+
+-------df index 23239--------
+case1: 2	case2: 0
+
+-------df index 23240--------
+case1: 1	case2: 0
+
+-------df index 23242--------
+case1: 1	case2: 1
+
+-------df index 23244--------
+case1: 1	case2: 0
+
+-------df index 23248--------
+case1: 5	case2: 2
+
+-------df index 23250--------
+case1: 1	case2: 1
+
+-------df index 23257--------
+case1: 3	case2: 3
+
+-------df index 23258--------
+case1: 2	case2: 4
+
+-------df index 23271--------
+case1: 5	case2: 2
+
+-------df index 23273--------
+case1: 8	case2: 0
+
+-------df index 23285--------
+case1: 5	case2: 3
+
+-------df index 23293--------
+case1: 18	case2: 6
+
+-------df index 23297--------
+case1: 1	case2: 0
+
+-------df index 23315--------
+case1: 1	case2: 0
+
+-------df index 23316--------
+case1: 15	case2: 4
+
+-------df index 23335--------
+case1: 1	case2: 0
+
+-------df index 23342--------
+case1: 4	case2: 0
+
+-------df index 23345--------
+case1: 12	case2: 0
+
+-------df index 23360--------
+case1: 2	case2: 2
+
+-------df index 23365--------
+case1: 18	case2: 2
+
+-------df index 23376--------
+case1: 1	case2: 0
+
+-------df index 23380--------
+case1: 1	case2: 0
+
+-------df index 23385--------
+case1: 1	case2: 0
+
+-------df index 23389--------
+case1: 2	case2: 0
+
+-------df index 23393--------
+case1: 7	case2: 3
+
+-------df index 23397--------
+case1: 1	case2: 0
+
+-------df index 23402--------
+case1: 6	case2: 3
+
+-------df index 23412--------
+case1: 1	case2: 0
+
+-------df index 23427--------
+case1: 1	case2: 0
+
+-------df index 23432--------
+case1: 1	case2: 0
+
+-------df index 23443--------
+case1: 5	case2: 0
+
+-------df index 23447--------
+case1: 2	case2: 0
+
+-------df index 23452--------
+case1: 15	case2: 3
+
+-------df index 23466--------
+case1: 1	case2: 0
+
+-------df index 23473--------
+case1: 3	case2: 0
+
+-------df index 23476--------
+case1: 7	case2: 0
+
+-------df index 23478--------
+case1: 1	case2: 0
+
+-------df index 23479--------
+case1: 1	case2: 2
+
+-------df index 23480--------
+case1: 2	case2: 0
+
+-------df index 23483--------
+case1: 1	case2: 0
+
+-------df index 23484--------
+case1: 1	case2: 1
+
+-------df index 23488--------
+case1: 27	case2: 0
+
+-------df index 23490--------
+case1: 19	case2: 4
+
+-------df index 23492--------
+case1: 8	case2: 6
+
+-------df index 23510--------
+case1: 4	case2: 1
+
+-------df index 23525--------
+case1: 1	case2: 0
+
+-------df index 23546--------
+case1: 2	case2: 0
+
+-------df index 23549--------
+case1: 1	case2: 0
+
+-------df index 23550--------
+case1: 1	case2: 0
+
+-------df index 23551--------
+case1: 13	case2: 3
+
+-------df index 23555--------
+case1: 1	case2: 0
+
+-------df index 23556--------
+case1: 3	case2: 2
+
+-------df index 23564--------
+case1: 1	case2: 1
+
+-------df index 23574--------
+case1: 2	case2: 0
+
+-------df index 23579--------
+case1: 1	case2: 1
+
+-------df index 23583--------
+case1: 5	case2: 4
+
+-------df index 23585--------
+case1: 9	case2: 0
+
+-------df index 23594--------
+case1: 1	case2: 1
+
+-------df index 23595--------
+case1: 9	case2: 0
+
+-------df index 23596--------
+case1: 4	case2: 1
+
+-------df index 23612--------
+case1: 7	case2: 1
+
+-------df index 23625--------
+case1: 7	case2: 0
+
+-------df index 23630--------
+case1: 5	case2: 4
+
+-------df index 23636--------
+case1: 1	case2: 1
+
+-------df index 23649--------
+case1: 1	case2: 0
+
+-------df index 23650--------
+case1: 11	case2: 0
+
+-------df index 23651--------
+case1: 1	case2: 0
+
+-------df index 23674--------
+case1: 2	case2: 1
+
+-------df index 23675--------
+case1: 3	case2: 1
+
+-------df index 23678--------
+case1: 2	case2: 0
+
+-------df index 23689--------
+case1: 27	case2: 10
+
+-------df index 23700--------
+case1: 1	case2: 1
+
+-------df index 23708--------
+case1: 1	case2: 0
+
+-------df index 23710--------
+case1: 3	case2: 0
+
+-------df index 23722--------
+case1: 1	case2: 0
+
+-------df index 23726--------
+case1: 5	case2: 1
+
+-------df index 23728--------
+case1: 6	case2: 1
+
+-------df index 23736--------
+case1: 6	case2: 0
+
+-------df index 23740--------
+case1: 1	case2: 2
+
+-------df index 23743--------
+case1: 4	case2: 2
+
+-------df index 23749--------
+case1: 2	case2: 0
+
+-------df index 23753--------
+case1: 10	case2: 2
+
+-------df index 23759--------
+case1: 1	case2: 1
+
+-------df index 23777--------
+case1: 1	case2: 0
+
+-------df index 23780--------
+case1: 3	case2: 0
+
+-------df index 23785--------
+case1: 4	case2: 2
+
+-------df index 23806--------
+case1: 4	case2: 0
+
+-------df index 23813--------
+case1: 21	case2: 3
+
+-------df index 23814--------
+case1: 1	case2: 0
+
+-------df index 23816--------
+case1: 1	case2: 0
+
+-------df index 23829--------
+case1: 1	case2: 0
+
+-------df index 23832--------
+case1: 51	case2: 3
+
+-------df index 23838--------
+case1: 5	case2: 2
+
+-------df index 23842--------
+case1: 3	case2: 2
+
+-------df index 23850--------
+case1: 7	case2: 1
+
+-------df index 23855--------
+case1: 6	case2: 0
+
+-------df index 23856--------
+case1: 5	case2: 0
+
+-------df index 23863--------
+case1: 4	case2: 0
+
+-------df index 23904--------
+case1: 1	case2: 1
+
+-------df index 23905--------
+case1: 1	case2: 0
+
+-------df index 23908--------
+case1: 1	case2: 0
+
+-------df index 23910--------
+case1: 1	case2: 0
+
+-------df index 23912--------
+case1: 2	case2: 0
+
+-------df index 23917--------
+case1: 1	case2: 0
+
+-------df index 23926--------
+case1: 10	case2: 0
+
+-------df index 23947--------
+case1: 5	case2: 0
+
+-------df index 23950--------
+case1: 2	case2: 2
+
+-------df index 23952--------
+case1: 6	case2: 2
+
+-------df index 23982--------
+case1: 2	case2: 1
+
+-------df index 23985--------
+case1: 1	case2: 0
+
+-------df index 23988--------
+case1: 11	case2: 0
+
+-------df index 23989--------
+case1: 1	case2: 0
+
+-------df index 23991--------
+case1: 1	case2: 0
+
+-------df index 23995--------
+case1: 1	case2: 0
+
+-------df index 24000--------
+case1: 1	case2: 0
+
+-------df index 24002--------
+case1: 1	case2: 4
+
+-------df index 24022--------
+case1: 4	case2: 0
+
+-------df index 24034--------
+case1: 23	case2: 7
+
+-------df index 24039--------
+case1: 1	case2: 1
+
+-------df index 24052--------
+case1: 1	case2: 2
+
+-------df index 24070--------
+case1: 2	case2: 0
+
+-------df index 24080--------
+case1: 1	case2: 0
+
+-------df index 24086--------
+case1: 27	case2: 4
+
+-------df index 24089--------
+case1: 6	case2: 0
+
+-------df index 24090--------
+case1: 6	case2: 1
+
+-------df index 24101--------
+case1: 6	case2: 0
+
+-------df index 24106--------
+case1: 1	case2: 1
+
+-------df index 24110--------
+case1: 6	case2: 6
+
+-------df index 24115--------
+case1: 12	case2: 0
+
+-------df index 24121--------
+case1: 6	case2: 3
+
+-------df index 24131--------
+case1: 2	case2: 1
+
+-------df index 24132--------
+case1: 5	case2: 0
+
+-------df index 24137--------
+case1: 1	case2: 0
+
+-------df index 24152--------
+case1: 4	case2: 0
+
+-------df index 24172--------
+case1: 1	case2: 0
+
+-------df index 24175--------
+case1: 1	case2: 0
+
+-------df index 24176--------
+case1: 1	case2: 0
+
+-------df index 24181--------
+case1: 16	case2: 2
+
+-------df index 24185--------
+case1: 32	case2: 2
+
+-------df index 24202--------
+case1: 1	case2: 1
+
+-------df index 24214--------
+case1: 7	case2: 1
+
+-------df index 24215--------
+case1: 1	case2: 0
+
+-------df index 24221--------
+case1: 7	case2: 1
+
+-------df index 24234--------
+case1: 10	case2: 7
+
+-------df index 24246--------
+case1: 14	case2: 5
+
+-------df index 24273--------
+case1: 14	case2: 6
+
+-------df index 24294--------
+case1: 5	case2: 0
+
+-------df index 24295--------
+case1: 8	case2: 0
+
+-------df index 24302--------
+case1: 1	case2: 0
+
+-------df index 24304--------
+case1: 14	case2: 0
+
+-------df index 24306--------
+case1: 12	case2: 0
+
+-------df index 24314--------
+case1: 5	case2: 1
+
+-------df index 24335--------
+case1: 1	case2: 1
+
+-------df index 24340--------
+case1: 1	case2: 0
+
+-------df index 24343--------
+case1: 4	case2: 0
+
+-------df index 24344--------
+case1: 1	case2: 0
+
+-------df index 24347--------
+case1: 4	case2: 3
+
+-------df index 24361--------
+case1: 3	case2: 0
+
+-------df index 24386--------
+case1: 1	case2: 2
+
+-------df index 24391--------
+case1: 1	case2: 1
+
+-------df index 24402--------
+case1: 1	case2: 0
+
+-------df index 24410--------
+case1: 6	case2: 1
+
+-------df index 24412--------
+case1: 7	case2: 3
+
+-------df index 24413--------
+case1: 1	case2: 0
+
+-------df index 24418--------
+case1: 1	case2: 0
+
+-------df index 24423--------
+case1: 3	case2: 0
+
+-------df index 24424--------
+case1: 37	case2: 5
+
+-------df index 24432--------
+case1: 7	case2: 8
+
+-------df index 24444--------
+case1: 1	case2: 0
+
+-------df index 24448--------
+case1: 1	case2: 0
+
+-------df index 24466--------
+case1: 2	case2: 0
+
+-------df index 24467--------
+case1: 3	case2: 0
+
+-------df index 24477--------
+case1: 18	case2: 5
+
+-------df index 24499--------
+case1: 52	case2: 7
+
+-------df index 24500--------
+case1: 1	case2: 0
+
+-------df index 24507--------
+case1: 1	case2: 0
+
+-------df index 24509--------
+case1: 14	case2: 4
+
+-------df index 24527--------
+case1: 34	case2: 7
+
+-------df index 24531--------
+case1: 7	case2: 0
+
+-------df index 24535--------
+case1: 1	case2: 0
+
+-------df index 24547--------
+case1: 1	case2: 0
+
+-------df index 24550--------
+case1: 12	case2: 4
+
+-------df index 24554--------
+case1: 2	case2: 0
+
+-------df index 24589--------
+case1: 9	case2: 0
+
+-------df index 24593--------
+case1: 3	case2: 0
+
+-------df index 24599--------
+case1: 1	case2: 0
+
+-------df index 24613--------
+case1: 1	case2: 0
+
+-------df index 24635--------
+case1: 1	case2: 0
+
+-------df index 24638--------
+case1: 3	case2: 1
+
+-------df index 24639--------
+case1: 9	case2: 0
+
+-------df index 24643--------
+case1: 2	case2: 1
+
+-------df index 24645--------
+case1: 2	case2: 0
+
+-------df index 24646--------
+case1: 23	case2: 0
+
+-------df index 24648--------
+case1: 9	case2: 4
+
+-------df index 24656--------
+case1: 15	case2: 3
+
+-------df index 24671--------
+case1: 8	case2: 0
+
+-------df index 24672--------
+case1: 7	case2: 0
+
+-------df index 24680--------
+case1: 1	case2: 0
+
+-------df index 24682--------
+case1: 1	case2: 0
+
+-------df index 24683--------
+case1: 1	case2: 0
+
+-------df index 24706--------
+case1: 22	case2: 0
+
+-------df index 24721--------
+case1: 1	case2: 0
+
+-------df index 24723--------
+case1: 10	case2: 3
+
+-------df index 24725--------
+case1: 1	case2: 0
+
+-------df index 24727--------
+case1: 1	case2: 0
+
+-------df index 24739--------
+case1: 1	case2: 0
+
+-------df index 24742--------
+case1: 2	case2: 1
+
+-------df index 24762--------
+case1: 1	case2: 2
+
+-------df index 24776--------
+case1: 3	case2: 0
+
+-------df index 24782--------
+case1: 2	case2: 0
+
+-------df index 24786--------
+case1: 27	case2: 3
+
+-------df index 24787--------
+case1: 2	case2: 0
+
+-------df index 24789--------
+case1: 1	case2: 1
+
+-------df index 24800--------
+case1: 2	case2: 0
+
+-------df index 24809--------
+case1: 2	case2: 0
+
+-------df index 24813--------
+case1: 13	case2: 1
+
+-------df index 24815--------
+case1: 1	case2: 0
+
+-------df index 24818--------
+case1: 2	case2: 0
+
+-------df index 24822--------
+case1: 2	case2: 0
+
+-------df index 24826--------
+case1: 2	case2: 0
+
+-------df index 24829--------
+case1: 37	case2: 2
+
+-------df index 24835--------
+case1: 18	case2: 0
+
+-------df index 24840--------
+case1: 3	case2: 1
+
+-------df index 24846--------
+case1: 14	case2: 1
+
+-------df index 24852--------
+case1: 21	case2: 9
+
+-------df index 24861--------
+case1: 7	case2: 1
+
+-------df index 24863--------
+case1: 3	case2: 2
+
+-------df index 24904--------
+case1: 1	case2: 0
+
+-------df index 24907--------
+case1: 2	case2: 0
+
+-------df index 24909--------
+case1: 71	case2: 7
+
+-------df index 24917--------
+case1: 20	case2: 8
+
+-------df index 24925--------
+case1: 3	case2: 0
+
+-------df index 24931--------
+case1: 1	case2: 2
+
+-------df index 24944--------
+case1: 2	case2: 0
+
+-------df index 24946--------
+case1: 1	case2: 0
+
+-------df index 24948--------
+case1: 11	case2: 0
+
+-------df index 24949--------
+case1: 5	case2: 2
+
+-------df index 24952--------
+case1: 18	case2: 1
+
+-------df index 24984--------
+case1: 1	case2: 0
+
+-------df index 24987--------
+case1: 1	case2: 0
+
+-------df index 24996--------
+case1: 1	case2: 0
+
+-------df index 24998--------
+case1: 2	case2: 2
+
+-------df index 25003--------
+case1: 1	case2: 0
+
+-------df index 25006--------
+case1: 8	case2: 0
+
+-------df index 25012--------
+case1: 9	case2: 3
+
+-------df index 25023--------
+case1: 1	case2: 0
+
+-------df index 25024--------
+case1: 10	case2: 3
+
+-------df index 25026--------
+case1: 1	case2: 1
+
+-------df index 25032--------
+case1: 1	case2: 0
+
+-------df index 25047--------
+case1: 1	case2: 0
+
+-------df index 25051--------
+case1: 1	case2: 0
+
+-------df index 25060--------
+case1: 9	case2: 0
+
+-------df index 25067--------
+case1: 6	case2: 0
+
+-------df index 25071--------
+case1: 1	case2: 0
+
+-------df index 25072--------
+case1: 2	case2: 0
+
+-------df index 25073--------
+case1: 1	case2: 0
+
+-------df index 25077--------
+case1: 2	case2: 0
+
+-------df index 25079--------
+case1: 4	case2: 0
+
+-------df index 25080--------
+case1: 1	case2: 0
+
+-------df index 25082--------
+case1: 1	case2: 1
+
+-------df index 25084--------
+case1: 17	case2: 1
+
+-------df index 25086--------
+case1: 5	case2: 0
+
+-------df index 25105--------
+case1: 3	case2: 0
+
+-------df index 25123--------
+case1: 15	case2: 3
+
+-------df index 25128--------
+case1: 2	case2: 0
+
+-------df index 25131--------
+case1: 1	case2: 0
+
+-------df index 25133--------
+case1: 1	case2: 0
+
+-------df index 25134--------
+case1: 1	case2: 4
+
+-------df index 25136--------
+case1: 2	case2: 0
+
+-------df index 25138--------
+case1: 2	case2: 0
+
+-------df index 25140--------
+case1: 9	case2: 1
+
+-------df index 25143--------
+case1: 1	case2: 0
+
+-------df index 25157--------
+case1: 2	case2: 0
+
+-------df index 25162--------
+case1: 1	case2: 0
+
+-------df index 25164--------
+case1: 1	case2: 3
+
+-------df index 25167--------
+case1: 1	case2: 1
+
+-------df index 25169--------
+case1: 1	case2: 0
+
+-------df index 25170--------
+case1: 17	case2: 3
+
+-------df index 25176--------
+case1: 1	case2: 0
+
+-------df index 25184--------
+case1: 2	case2: 1
+
+-------df index 25189--------
+case1: 11	case2: 0
+
+-------df index 25191--------
+case1: 6	case2: 0
+
+-------df index 25195--------
+case1: 2	case2: 0
+
+-------df index 25216--------
+case1: 26	case2: 4
+
+-------df index 25220--------
+case1: 4	case2: 0
+
+-------df index 25225--------
+case1: 2	case2: 0
+
+-------df index 25229--------
+case1: 12	case2: 0
+
+-------df index 25248--------
+case1: 1	case2: 0
+
+-------df index 25249--------
+case1: 1	case2: 1
+
+-------df index 25259--------
+case1: 10	case2: 4
+
+-------df index 25273--------
+case1: 6	case2: 4
+
+-------df index 25274--------
+case1: 1	case2: 0
+
+-------df index 25295--------
+case1: 1	case2: 0
+
+-------df index 25301--------
+case1: 2	case2: 0
+
+-------df index 25309--------
+case1: 1	case2: 0
+
+-------df index 25334--------
+case1: 8	case2: 1
+
+-------df index 25341--------
+case1: 4	case2: 0
+
+-------df index 25343--------
+case1: 1	case2: 0
+
+-------df index 25344--------
+case1: 4	case2: 0
+
+-------df index 25354--------
+case1: 23	case2: 2
+
+-------df index 25357--------
+case1: 1	case2: 0
+
+-------df index 25367--------
+case1: 7	case2: 0
+
+-------df index 25370--------
+case1: 4	case2: 1
+
+-------df index 25374--------
+case1: 3	case2: 1
+
+-------df index 25379--------
+case1: 3	case2: 0
+
+-------df index 25382--------
+case1: 1	case2: 0
+
+-------df index 25383--------
+case1: 6	case2: 2
+
+-------df index 25396--------
+case1: 1	case2: 0
+
+-------df index 25426--------
+case1: 1	case2: 0
+
+-------df index 25427--------
+case1: 7	case2: 0
+
+-------df index 25428--------
+case1: 1	case2: 0
+
+-------df index 25434--------
+case1: 1	case2: 0
+
+-------df index 25437--------
+case1: 3	case2: 0
+
+-------df index 25438--------
+case1: 10	case2: 2
+
+-------df index 25440--------
+case1: 1	case2: 0
+
+-------df index 25441--------
+case1: 12	case2: 2
+
+-------df index 25442--------
+case1: 6	case2: 0
+
+-------df index 25448--------
+case1: 16	case2: 2
+
+-------df index 25450--------
+case1: 1	case2: 0
+
+-------df index 25453--------
+case1: 7	case2: 0
+
+-------df index 25466--------
+case1: 2	case2: 1
+
+-------df index 25467--------
+case1: 6	case2: 7
+
+-------df index 25479--------
+case1: 1	case2: 0
+
+-------df index 25480--------
+case1: 1	case2: 0
+
+-------df index 25481--------
+case1: 1	case2: 0
+
+-------df index 25484--------
+case1: 6	case2: 8
+
+-------df index 25487--------
+case1: 4	case2: 2
+
+-------df index 25495--------
+case1: 2	case2: 4
+
+-------df index 25518--------
+case1: 1	case2: 0
+
+-------df index 25521--------
+case1: 1	case2: 0
+
+-------df index 25522--------
+case1: 7	case2: 0
+
+-------df index 25523--------
+case1: 1	case2: 0
+
+-------df index 25539--------
+case1: 2	case2: 3
+
+-------df index 25542--------
+case1: 2	case2: 1
+
+-------df index 25546--------
+case1: 1	case2: 0
+
+-------df index 25549--------
+case1: 3	case2: 0
+
+-------df index 25553--------
+case1: 1	case2: 0
+
+-------df index 25554--------
+case1: 1	case2: 0
+
+-------df index 25579--------
+case1: 82	case2: 11
+
+-------df index 25585--------
+case1: 3	case2: 2
+
+-------df index 25590--------
+case1: 5	case2: 0
+
+-------df index 25592--------
+case1: 1	case2: 0
+
+-------df index 25594--------
+case1: 1	case2: 0
+
+-------df index 25597--------
+case1: 1	case2: 0
+
+-------df index 25612--------
+case1: 1	case2: 0
+
+-------df index 25629--------
+case1: 8	case2: 0
+
+-------df index 25631--------
+case1: 2	case2: 0
+
+-------df index 25637--------
+case1: 1	case2: 0
+
+-------df index 25638--------
+case1: 2	case2: 1
+
+-------df index 25641--------
+case1: 2	case2: 0
+
+-------df index 25647--------
+case1: 11	case2: 0
+
+-------df index 25651--------
+case1: 1	case2: 0
+
+-------df index 25655--------
+case1: 1	case2: 0
+
+-------df index 25659--------
+case1: 2	case2: 0
+
+-------df index 25668--------
+case1: 6	case2: 0
+
+-------df index 25677--------
+case1: 1	case2: 0
+
+-------df index 25678--------
+case1: 31	case2: 8
+
+-------df index 25683--------
+case1: 4	case2: 0
+
+-------df index 25687--------
+case1: 3	case2: 0
+
+-------df index 25693--------
+case1: 1	case2: 0
+
+-------df index 25694--------
+case1: 1	case2: 0
+
+-------df index 25696--------
+case1: 2	case2: 1
+
+-------df index 25698--------
+case1: 6	case2: 0
+
+-------df index 25699--------
+case1: 13	case2: 0
+
+-------df index 25706--------
+case1: 5	case2: 0
+
+-------df index 25721--------
+case1: 19	case2: 4
+
+-------df index 25723--------
+case1: 5	case2: 1
+
+-------df index 25727--------
+case1: 4	case2: 0
+
+-------df index 25729--------
+case1: 1	case2: 0
+
+-------df index 25742--------
+case1: 2	case2: 0
+
+-------df index 25750--------
+case1: 1	case2: 0
+
+-------df index 25768--------
+case1: 1	case2: 1
+
+-------df index 25769--------
+case1: 12	case2: 0
+
+-------df index 25770--------
+case1: 4	case2: 0
+
+-------df index 25778--------
+case1: 1	case2: 0
+
+-------df index 25789--------
+case1: 2	case2: 0
+
+-------df index 25801--------
+case1: 1	case2: 0
+
+-------df index 25804--------
+case1: 8	case2: 0
+
+-------df index 25808--------
+case1: 8	case2: 3
+
+-------df index 25820--------
+case1: 12	case2: 4
+
+-------df index 25821--------
+case1: 1	case2: 0
+
+-------df index 25822--------
+case1: 1	case2: 0
+
+-------df index 25828--------
+case1: 1	case2: 0
+
+-------df index 25834--------
+case1: 15	case2: 0
+
+-------df index 25847--------
+case1: 57	case2: 11
+
+-------df index 25853--------
+case1: 6	case2: 0
+
+-------df index 25862--------
+case1: 1	case2: 0
+
+-------df index 25864--------
+case1: 1	case2: 0
+
+-------df index 25865--------
+case1: 1	case2: 0
+
+-------df index 25866--------
+case1: 1	case2: 0
+
+-------df index 25869--------
+case1: 4	case2: 1
+
+-------df index 25871--------
+case1: 1	case2: 0
+
+-------df index 25872--------
+case1: 1	case2: 1
+
+-------df index 25881--------
+case1: 1	case2: 0
+
+-------df index 25896--------
+case1: 1	case2: 0
+
+-------df index 25903--------
+case1: 4	case2: 0
+
+-------df index 25907--------
+case1: 1	case2: 0
+
+-------df index 25908--------
+case1: 2	case2: 2
+
+-------df index 25911--------
+case1: 1	case2: 3
+
+-------df index 25913--------
+case1: 8	case2: 0
+
+-------df index 25924--------
+case1: 1	case2: 0
+
+-------df index 25931--------
+case1: 11	case2: 3
+
+-------df index 25940--------
+case1: 1	case2: 0
+
+-------df index 25944--------
+case1: 6	case2: 0
+
+-------df index 25946--------
+case1: 10	case2: 2
+
+-------df index 25950--------
+case1: 3	case2: 0
+
+-------df index 25961--------
+case1: 1	case2: 0
+
+-------df index 25963--------
+case1: 14	case2: 7
+
+-------df index 25966--------
+case1: 1	case2: 0
+
+-------df index 25968--------
+case1: 1	case2: 1
+
+-------df index 25978--------
+case1: 13	case2: 3
+
+-------df index 25985--------
+case1: 1	case2: 2
+
+-------df index 25986--------
+case1: 79	case2: 25
+
+-------df index 25990--------
+case1: 1	case2: 0
+
+-------df index 25991--------
+case1: 7	case2: 0
+
+-------df index 25995--------
+case1: 27	case2: 12
+
+-------df index 26000--------
+case1: 2	case2: 0
+
+-------df index 26003--------
+case1: 1	case2: 0
+
+-------df index 26006--------
+case1: 5	case2: 0
+
+-------df index 26010--------
+case1: 7	case2: 1
+
+-------df index 26024--------
+case1: 20	case2: 2
+
+-------df index 26025--------
+case1: 5	case2: 1
+
+-------df index 26042--------
+case1: 1	case2: 0
+
+-------df index 26047--------
+case1: 2	case2: 0
+
+-------df index 26051--------
+case1: 2	case2: 1
+
+-------df index 26056--------
+case1: 4	case2: 2
+
+-------df index 26058--------
+case1: 1	case2: 0
+
+-------df index 26066--------
+case1: 3	case2: 0
+
+-------df index 26073--------
+case1: 7	case2: 3
+
+-------df index 26079--------
+case1: 7	case2: 3
+
+-------df index 26081--------
+case1: 1	case2: 0
+
+-------df index 26096--------
+case1: 1	case2: 0
+
+-------df index 26101--------
+case1: 4	case2: 0
+
+-------df index 26109--------
+case1: 11	case2: 0
+
+-------df index 26113--------
+case1: 7	case2: 0
+
+-------df index 26128--------
+case1: 1	case2: 0
+
+-------df index 26130--------
+case1: 1	case2: 0
+
+-------df index 26132--------
+case1: 1	case2: 0
+
+-------df index 26136--------
+case1: 3	case2: 0
+
+-------df index 26138--------
+case1: 1	case2: 0
+
+-------df index 26149--------
+case1: 1	case2: 0
+
+-------df index 26157--------
+case1: 2	case2: 1
+
+-------df index 26164--------
+case1: 2	case2: 0
+
+-------df index 26166--------
+case1: 1	case2: 0
+
+-------df index 26167--------
+case1: 1	case2: 0
+
+-------df index 26168--------
+case1: 2	case2: 0
+
+-------df index 26174--------
+case1: 9	case2: 0
+
+-------df index 26176--------
+case1: 1	case2: 0
+
+-------df index 26184--------
+case1: 1	case2: 0
+
+-------df index 26189--------
+case1: 8	case2: 6
+
+-------df index 26193--------
+case1: 12	case2: 6
+
+-------df index 26199--------
+case1: 6	case2: 0
+
+-------df index 26210--------
+case1: 1	case2: 0
+
+-------df index 26211--------
+case1: 2	case2: 2
+
+-------df index 26213--------
+case1: 1	case2: 0
+
+-------df index 26214--------
+case1: 1	case2: 0
+
+-------df index 26217--------
+case1: 3	case2: 0
+
+-------df index 26218--------
+case1: 1	case2: 0
+
+-------df index 26222--------
+case1: 4	case2: 2
+
+-------df index 26223--------
+case1: 1	case2: 0
+
+-------df index 26231--------
+case1: 1	case2: 0
+
+-------df index 26247--------
+case1: 1	case2: 0
+
+-------df index 26248--------
+case1: 14	case2: 4
+
+-------df index 26250--------
+case1: 7	case2: 6
+
+-------df index 26254--------
+case1: 2	case2: 0
+
+-------df index 26264--------
+case1: 3	case2: 0
+
+-------df index 26274--------
+case1: 2	case2: 1
+
+-------df index 26281--------
+case1: 2	case2: 2
+
+-------df index 26295--------
+case1: 1	case2: 0
+
+-------df index 26296--------
+case1: 1	case2: 0
+
+-------df index 26298--------
+case1: 1	case2: 0
+
+-------df index 26299--------
+case1: 1	case2: 0
+
+-------df index 26311--------
+case1: 1	case2: 0
+
+-------df index 26322--------
+case1: 2	case2: 0
+
+-------df index 26328--------
+case1: 8	case2: 0
+
+-------df index 26345--------
+case1: 2	case2: 1
+
+-------df index 26357--------
+case1: 8	case2: 0
+
+-------df index 26364--------
+case1: 26	case2: 3
+
+-------df index 26366--------
+case1: 4	case2: 0
+
+-------df index 26378--------
+case1: 12	case2: 6
+
+-------df index 26385--------
+case1: 5	case2: 3
+
+-------df index 26389--------
+case1: 2	case2: 0
+
+-------df index 26390--------
+case1: 1	case2: 0
+
+-------df index 26391--------
+case1: 3	case2: 0
+
+-------df index 26393--------
+case1: 10	case2: 0
+
+-------df index 26396--------
+case1: 1	case2: 0
+
+-------df index 26406--------
+case1: 20	case2: 4
+
+-------df index 26419--------
+case1: 2	case2: 0
+
+-------df index 26421--------
+case1: 3	case2: 0
+
+-------df index 26438--------
+case1: 3	case2: 0
+
+-------df index 26444--------
+case1: 1	case2: 0
+
+-------df index 26445--------
+case1: 1	case2: 0
+
+-------df index 26450--------
+case1: 1	case2: 0
+
+-------df index 26452--------
+case1: 5	case2: 0
+
+-------df index 26454--------
+case1: 27	case2: 10
+
+-------df index 26456--------
+case1: 42	case2: 13
+
+-------df index 26458--------
+case1: 1	case2: 0
+
+-------df index 26463--------
+case1: 1	case2: 0
+
+-------df index 26464--------
+case1: 9	case2: 0
+
+-------df index 26468--------
+case1: 4	case2: 0
+
+-------df index 26486--------
+case1: 11	case2: 0
+
+-------df index 26489--------
+case1: 3	case2: 0
+
+-------df index 26497--------
+case1: 1	case2: 0
+
+-------df index 26505--------
+case1: 1	case2: 3
+
+-------df index 26513--------
+case1: 12	case2: 2
+
+-------df index 26524--------
+case1: 3	case2: 2
+
+-------df index 26526--------
+case1: 4	case2: 0
+
+-------df index 26538--------
+case1: 1	case2: 0
+
+-------df index 26539--------
+case1: 1	case2: 1
+
+-------df index 26543--------
+case1: 1	case2: 0
+
+-------df index 26548--------
+case1: 5	case2: 0
+
+-------df index 26551--------
+case1: 20	case2: 2
+
+-------df index 26552--------
+case1: 3	case2: 0
+
+-------df index 26554--------
+case1: 23	case2: 1
+
+-------df index 26563--------
+case1: 10	case2: 0
+
+-------df index 26569--------
+case1: 1	case2: 0
+
+-------df index 26580--------
+case1: 1	case2: 0
+
+-------df index 26581--------
+case1: 2	case2: 0
+
+-------df index 26592--------
+case1: 3	case2: 6
+
+-------df index 26597--------
+case1: 1	case2: 1
+
+-------df index 26608--------
+case1: 1	case2: 0
+
+-------df index 26609--------
+case1: 1	case2: 0
+
+-------df index 26612--------
+case1: 1	case2: 0
+
+-------df index 26613--------
+case1: 3	case2: 1
+
+-------df index 26618--------
+case1: 3	case2: 2
+
+-------df index 26619--------
+case1: 4	case2: 0
+
+-------df index 26621--------
+case1: 10	case2: 0
+
+-------df index 26631--------
+case1: 2	case2: 0
+
+-------df index 26646--------
+case1: 1	case2: 0
+
+-------df index 26647--------
+case1: 1	case2: 0
+
+-------df index 26662--------
+case1: 6	case2: 0
+
+-------df index 26666--------
+case1: 12	case2: 2
+
+-------df index 26679--------
+case1: 2	case2: 0
+
+-------df index 26686--------
+case1: 11	case2: 3
+
+-------df index 26687--------
+case1: 7	case2: 0
+
+-------df index 26688--------
+case1: 5	case2: 0
+
+-------df index 26689--------
+case1: 25	case2: 0
+
+-------df index 26691--------
+case1: 1	case2: 0
+
+-------df index 26695--------
+case1: 7	case2: 1
+
+-------df index 26709--------
+case1: 1	case2: 0
+
+-------df index 26722--------
+case1: 5	case2: 1
+
+-------df index 26725--------
+case1: 3	case2: 0
+
+-------df index 26728--------
+case1: 1	case2: 0
+
+-------df index 26729--------
+case1: 10	case2: 0
+
+-------df index 26742--------
+case1: 3	case2: 0
+
+-------df index 26743--------
+case1: 16	case2: 0
+
+-------df index 26746--------
+case1: 3	case2: 0
+
+-------df index 26754--------
+case1: 17	case2: 3
+
+-------df index 26765--------
+case1: 9	case2: 0
+
+-------df index 26778--------
+case1: 1	case2: 0
+
+-------df index 26784--------
+case1: 1	case2: 0
+
+-------df index 26786--------
+case1: 6	case2: 0
+
+-------df index 26789--------
+case1: 2	case2: 0
+
+-------df index 26792--------
+case1: 1	case2: 0
+
+-------df index 26797--------
+case1: 5	case2: 0
+
+-------df index 26799--------
+case1: 6	case2: 0
+
+-------df index 26819--------
+case1: 12	case2: 7
+
+-------df index 26828--------
+case1: 1	case2: 0
+
+-------df index 26832--------
+case1: 6	case2: 5
+
+-------df index 26835--------
+case1: 1	case2: 0
+
+-------df index 26836--------
+case1: 22	case2: 8
+
+-------df index 26846--------
+case1: 2	case2: 0
+
+-------df index 26851--------
+case1: 3	case2: 0
+
+-------df index 26872--------
+case1: 1	case2: 0
+
+-------df index 26873--------
+case1: 1	case2: 0
+
+-------df index 26878--------
+case1: 4	case2: 0
+
+-------df index 26879--------
+case1: 1	case2: 0
+
+-------df index 26881--------
+case1: 5	case2: 2
+
+-------df index 26882--------
+case1: 1	case2: 0
+
+-------df index 26891--------
+case1: 1	case2: 0
+
+-------df index 26893--------
+case1: 3	case2: 1
+
+-------df index 26899--------
+case1: 45	case2: 3
+
+-------df index 26912--------
+case1: 1	case2: 0
+
+-------df index 26917--------
+case1: 11	case2: 0
+
+-------df index 26927--------
+case1: 4	case2: 0
+
+-------df index 26931--------
+case1: 2	case2: 2
+
+-------df index 26947--------
+case1: 1	case2: 0
+
+-------df index 26949--------
+case1: 2	case2: 0
+
+-------df index 26950--------
+case1: 1	case2: 0
+
+-------df index 26951--------
+case1: 1	case2: 0
+
+-------df index 26956--------
+case1: 1	case2: 0
+
+-------df index 26958--------
+case1: 1	case2: 0
+
+-------df index 26960--------
+case1: 1	case2: 0
+
+-------df index 26961--------
+case1: 3	case2: 1
+
+-------df index 26971--------
+case1: 2	case2: 5
+
+-------df index 26977--------
+case1: 9	case2: 8
+
+-------df index 26985--------
+case1: 2	case2: 1
+
+-------df index 26988--------
+case1: 3	case2: 0
+
+-------df index 26989--------
+case1: 3	case2: 1
+
+-------df index 26994--------
+case1: 1	case2: 0
+
+-------df index 26995--------
+case1: 20	case2: 4
+
+-------df index 27001--------
+case1: 1	case2: 0
+
+-------df index 27003--------
+case1: 1	case2: 0
+
+-------df index 27006--------
+case1: 2	case2: 0
+
+-------df index 27007--------
+case1: 2	case2: 0
+
+-------df index 27017--------
+case1: 6	case2: 1
+
+-------df index 27027--------
+case1: 1	case2: 0
+
+-------df index 27048--------
+case1: 2	case2: 0
+
+-------df index 27051--------
+case1: 8	case2: 1
+
+-------df index 27057--------
+case1: 1	case2: 0
+
+-------df index 27058--------
+case1: 1	case2: 0
+
+-------df index 27059--------
+case1: 18	case2: 4
+
+-------df index 27060--------
+case1: 11	case2: 2
+
+-------df index 27061--------
+case1: 8	case2: 0
+
+-------df index 27062--------
+case1: 26	case2: 8
+
+-------df index 27063--------
+case1: 1	case2: 0
+
+-------df index 27066--------
+case1: 42	case2: 0
+
+-------df index 27068--------
+case1: 15	case2: 2
+
+-------df index 27070--------
+case1: 1	case2: 1
+
+-------df index 27073--------
+case1: 3	case2: 0
+
+-------df index 27074--------
+case1: 7	case2: 0
+
+-------df index 27075--------
+case1: 20	case2: 2
+
+-------df index 27079--------
+case1: 4	case2: 0
+
+-------df index 27095--------
+case1: 2	case2: 0
+
+-------df index 27109--------
+case1: 2	case2: 0
+
+-------df index 27110--------
+case1: 1	case2: 0
+
+-------df index 27111--------
+case1: 3	case2: 0
+
+-------df index 27125--------
+case1: 1	case2: 0
+
+-------df index 27132--------
+case1: 17	case2: 7
+
+-------df index 27137--------
+case1: 2	case2: 0
+
+-------df index 27141--------
+case1: 1	case2: 0
+
+-------df index 27151--------
+case1: 1	case2: 0
+
+-------df index 27153--------
+case1: 1	case2: 0
+
+-------df index 27155--------
+case1: 1	case2: 0
+
+-------df index 27158--------
+case1: 1	case2: 0
+
+-------df index 27162--------
+case1: 2	case2: 0
+
+-------df index 27165--------
+case1: 8	case2: 0
+
+-------df index 27167--------
+case1: 4	case2: 0
+
+-------df index 27172--------
+case1: 4	case2: 0
+
+-------df index 27186--------
+case1: 1	case2: 0
+
+-------df index 27196--------
+case1: 1	case2: 0
+
+-------df index 27199--------
+case1: 45	case2: 7
+
+-------df index 27200--------
+case1: 15	case2: 0
+
+-------df index 27201--------
+case1: 1	case2: 0
+
+-------df index 27202--------
+case1: 3	case2: 3
+
+-------df index 27211--------
+case1: 12	case2: 0
+
+-------df index 27212--------
+case1: 54	case2: 9
+
+-------df index 27214--------
+case1: 24	case2: 5
+
+-------df index 27218--------
+case1: 1	case2: 0
+
+-------df index 27219--------
+case1: 1	case2: 0
+
+-------df index 27224--------
+case1: 1	case2: 0
+
+-------df index 27225--------
+case1: 1	case2: 0
+
+-------df index 27233--------
+case1: 1	case2: 0
+
+-------df index 27236--------
+case1: 2	case2: 0
+
+-------df index 27241--------
+case1: 1	case2: 0
+
+-------df index 27257--------
+case1: 7	case2: 2
+
+-------df index 27266--------
+case1: 1	case2: 0
+
+-------df index 27274--------
+case1: 4	case2: 0
+
+-------df index 27276--------
+case1: 3	case2: 0
+
+-------df index 27285--------
+case1: 29	case2: 11
+
+-------df index 27291--------
+case1: 1	case2: 0
+
+-------df index 27292--------
+case1: 1	case2: 0
+
+-------df index 27293--------
+case1: 1	case2: 0
+
+-------df index 27294--------
+case1: 1	case2: 0
+
+-------df index 27299--------
+case1: 1	case2: 1
+
+-------df index 27300--------
+case1: 9	case2: 0
+
+-------df index 27301--------
+case1: 2	case2: 0
+
+-------df index 27304--------
+case1: 3	case2: 0
+
+-------df index 27305--------
+case1: 23	case2: 7
+
+-------df index 27308--------
+case1: 2	case2: 0
+
+-------df index 27324--------
+case1: 8	case2: 0
+
+-------df index 27338--------
+case1: 3	case2: 0
+
+-------df index 27339--------
+case1: 1	case2: 0
+
+-------df index 27343--------
+case1: 1	case2: 0
+
+-------df index 27345--------
+case1: 2	case2: 0
+
+-------df index 27348--------
+case1: 3	case2: 0
+
+-------df index 27354--------
+case1: 4	case2: 0
+
+-------df index 27368--------
+case1: 5	case2: 0
+
+-------df index 27369--------
+case1: 1	case2: 0
+
+-------df index 27371--------
+case1: 10	case2: 0
+
+-------df index 27386--------
+case1: 2	case2: 0
+
+-------df index 27398--------
+case1: 2	case2: 1
+
+-------df index 27409--------
+case1: 1	case2: 1
+
+-------df index 27411--------
+case1: 2	case2: 1
+
+-------df index 27412--------
+case1: 1	case2: 0
+
+-------df index 27413--------
+case1: 6	case2: 0
+
+-------df index 27430--------
+case1: 2	case2: 0
+
+-------df index 27434--------
+case1: 11	case2: 0
+
+-------df index 27441--------
+case1: 4	case2: 0
+
+-------df index 27448--------
+case1: 5	case2: 2
+
+-------df index 27450--------
+case1: 1	case2: 1
+
+-------df index 27451--------
+case1: 1	case2: 0
+
+-------df index 27454--------
+case1: 1	case2: 0
+
+-------df index 27457--------
+case1: 2	case2: 1
+
+-------df index 27461--------
+case1: 5	case2: 0
+
+-------df index 27462--------
+case1: 7	case2: 6
+
+-------df index 27469--------
+case1: 10	case2: 0
+
+-------df index 27470--------
+case1: 2	case2: 0
+
+-------df index 27471--------
+case1: 7	case2: 3
+
+-------df index 27483--------
+case1: 9	case2: 1
+
+-------df index 27488--------
+case1: 1	case2: 1
+
+-------df index 27496--------
+case1: 5	case2: 0
+
+-------df index 27500--------
+case1: 2	case2: 0
+
+-------df index 27505--------
+case1: 2	case2: 0
+
+-------df index 27521--------
+case1: 2	case2: 0
+
+-------df index 27523--------
+case1: 1	case2: 0
+
+-------df index 27524--------
+case1: 1	case2: 0
+
+-------df index 27525--------
+case1: 1	case2: 0
+
+-------df index 27526--------
+case1: 4	case2: 2
+
+-------df index 27528--------
+case1: 1	case2: 0
+
+-------df index 27534--------
+case1: 1	case2: 0
+
+-------df index 27536--------
+case1: 1	case2: 0
+
+-------df index 27541--------
+case1: 13	case2: 5
+
+-------df index 27545--------
+case1: 1	case2: 1
+
+-------df index 27548--------
+case1: 10	case2: 0
+
+-------df index 27555--------
+case1: 2	case2: 2
+
+-------df index 27556--------
+case1: 3	case2: 2
+
+-------df index 27557--------
+case1: 8	case2: 0
+
+-------df index 27559--------
+case1: 6	case2: 0
+
+-------df index 27567--------
+case1: 5	case2: 0
+
+-------df index 27572--------
+case1: 2	case2: 0
+
+-------df index 27584--------
+case1: 4	case2: 0
+
+-------df index 27589--------
+case1: 1	case2: 1
+
+-------df index 27591--------
+case1: 12	case2: 2
+
+-------df index 27594--------
+case1: 1	case2: 0
+
+-------df index 27597--------
+case1: 7	case2: 4
+
+-------df index 27617--------
+case1: 1	case2: 0
+
+-------df index 27619--------
+case1: 3	case2: 3
+
+-------df index 27620--------
+case1: 38	case2: 11
+
+-------df index 27639--------
+case1: 6	case2: 0
+
+-------df index 27642--------
+case1: 1	case2: 1
+
+-------df index 27647--------
+case1: 1	case2: 0
+
+-------df index 27649--------
+case1: 33	case2: 4
+
+-------df index 27651--------
+case1: 1	case2: 0
+
+-------df index 27653--------
+case1: 1	case2: 0
+
+-------df index 27655--------
+case1: 1	case2: 2
+
+-------df index 27656--------
+case1: 13	case2: 0
+
+-------df index 27663--------
+case1: 1	case2: 0
+
+-------df index 27664--------
+case1: 10	case2: 0
+
+-------df index 27669--------
+case1: 1	case2: 0
+
+-------df index 27673--------
+case1: 5	case2: 0
+
+-------df index 27676--------
+case1: 2	case2: 2
+
+-------df index 27684--------
+case1: 14	case2: 1
+
+-------df index 27689--------
+case1: 1	case2: 0
+
+-------df index 27693--------
+case1: 1	case2: 0
+
+-------df index 27697--------
+case1: 9	case2: 1
+
+-------df index 27702--------
+case1: 1	case2: 0
+
+-------df index 27726--------
+case1: 1	case2: 0
+
+-------df index 27727--------
+case1: 1	case2: 0
+
+-------df index 27728--------
+case1: 1	case2: 0
+
+-------df index 27732--------
+case1: 1	case2: 0
+
+-------df index 27735--------
+case1: 1	case2: 0
+
+-------df index 27737--------
+case1: 8	case2: 0
+
+-------df index 27739--------
+case1: 1	case2: 0
+
+-------df index 27741--------
+case1: 3	case2: 0
+
+-------df index 27742--------
+case1: 1	case2: 1
+
+-------df index 27747--------
+case1: 1	case2: 0
+
+-------df index 27753--------
+case1: 6	case2: 3
+
+-------df index 27767--------
+case1: 1	case2: 0
+
+-------df index 27776--------
+case1: 1	case2: 0
+
+-------df index 27778--------
+case1: 10	case2: 4
+
+-------df index 27790--------
+case1: 2	case2: 3
+
+-------df index 27797--------
+case1: 7	case2: 0
+
+-------df index 27798--------
+case1: 3	case2: 0
+
+-------df index 27807--------
+case1: 2	case2: 0
+
+-------df index 27810--------
+case1: 2	case2: 0
+
+-------df index 27820--------
+case1: 9	case2: 0
+
+-------df index 27823--------
+case1: 1	case2: 0
+
+-------df index 27828--------
+case1: 1	case2: 1
+
+-------df index 27829--------
+case1: 1	case2: 0
+
+-------df index 27832--------
+case1: 6	case2: 1
+
+-------df index 27833--------
+case1: 3	case2: 0
+
+-------df index 27835--------
+case1: 36	case2: 6
+
+-------df index 27836--------
+case1: 7	case2: 0
+
+-------df index 27840--------
+case1: 2	case2: 0
+
+-------df index 27848--------
+case1: 9	case2: 1
+
+-------df index 27855--------
+case1: 2	case2: 1
+
+-------df index 27860--------
+case1: 4	case2: 2
+
+-------df index 27866--------
+case1: 2	case2: 0
+
+-------df index 27867--------
+case1: 2	case2: 0
+
+-------df index 27888--------
+case1: 1	case2: 0
+
+-------df index 27891--------
+case1: 1	case2: 0
+
+-------df index 27892--------
+case1: 3	case2: 1
+
+-------df index 27896--------
+case1: 1	case2: 0
+
+-------df index 27909--------
+case1: 3	case2: 0
+
+-------df index 27910--------
+case1: 1	case2: 0
+
+-------df index 27912--------
+case1: 1	case2: 0
+
+-------df index 27914--------
+case1: 3	case2: 1
+
+-------df index 27917--------
+case1: 1	case2: 0
+
+-------df index 27922--------
+case1: 2	case2: 0
+
+-------df index 27925--------
+case1: 1	case2: 0
+
+-------df index 27926--------
+case1: 3	case2: 1
+
+-------df index 27928--------
+case1: 2	case2: 0
+
+-------df index 27932--------
+case1: 1	case2: 0
+
+-------df index 27948--------
+case1: 9	case2: 3
+
+-------df index 27955--------
+case1: 1	case2: 0
+
+-------df index 27964--------
+case1: 2	case2: 0
+
+-------df index 27975--------
+case1: 1	case2: 0
+
+-------df index 27976--------
+case1: 1	case2: 0
+
+-------df index 27977--------
+case1: 1	case2: 0
+
+-------df index 27980--------
+case1: 1	case2: 1
+
+-------df index 27986--------
+case1: 2	case2: 0
+
+-------df index 27989--------
+case1: 1	case2: 1
+
+-------df index 27991--------
+case1: 2	case2: 0
+
+-------df index 27994--------
+case1: 47	case2: 0
+
+-------df index 27999--------
+case1: 1	case2: 0
+
+-------df index 28014--------
+case1: 1	case2: 0
+
+-------df index 28019--------
+case1: 2	case2: 1
+
+-------df index 28026--------
+case1: 4	case2: 0
+
+-------df index 28035--------
+case1: 5	case2: 0
+
+-------df index 28038--------
+case1: 1	case2: 0
+
+-------df index 28045--------
+case1: 1	case2: 0
+
+-------df index 28046--------
+case1: 3	case2: 0
+
+-------df index 28048--------
+case1: 2	case2: 0
+
+-------df index 28049--------
+case1: 1	case2: 0
+
+-------df index 28050--------
+case1: 24	case2: 1
+
+-------df index 28052--------
+case1: 6	case2: 0
+
+-------df index 28054--------
+case1: 1	case2: 0
+
+-------df index 28055--------
+case1: 1	case2: 0
+
+-------df index 28057--------
+case1: 1	case2: 0
+
+-------df index 28058--------
+case1: 7	case2: 6
+
+-------df index 28068--------
+case1: 3	case2: 0
+
+-------df index 28079--------
+case1: 1	case2: 0
+
+-------df index 28080--------
+case1: 2	case2: 0
+
+-------df index 28086--------
+case1: 10	case2: 0
+
+-------df index 28093--------
+case1: 1	case2: 0
+
+-------df index 28099--------
+case1: 1	case2: 0
+
+-------df index 28100--------
+case1: 10	case2: 0
+
+-------df index 28101--------
+case1: 1	case2: 0
+
+-------df index 28102--------
+case1: 1	case2: 2
+
+-------df index 28105--------
+case1: 2	case2: 0
+
+-------df index 28111--------
+case1: 2	case2: 0
+
+-------df index 28124--------
+case1: 3	case2: 0
+
+-------df index 28128--------
+case1: 8	case2: 5
+
+-------df index 28131--------
+case1: 1	case2: 0
+
+-------df index 28135--------
+case1: 5	case2: 0
+
+-------df index 28138--------
+case1: 20	case2: 10
+
+-------df index 28146--------
+case1: 1	case2: 0
+
+-------df index 28151--------
+case1: 2	case2: 0
+
+-------df index 28155--------
+case1: 17	case2: 0
+
+-------df index 28161--------
+case1: 3	case2: 2
+
+-------df index 28163--------
+case1: 6	case2: 0
+
+-------df index 28176--------
+case1: 1	case2: 0
+
+-------df index 28177--------
+case1: 1	case2: 0
+
+-------df index 28180--------
+case1: 1	case2: 1
+
+-------df index 28183--------
+case1: 2	case2: 0
+
+-------df index 28185--------
+case1: 5	case2: 1
+
+-------df index 28187--------
+case1: 5	case2: 1
+
+-------df index 28190--------
+case1: 18	case2: 1
+
+-------df index 28191--------
+case1: 17	case2: 1
+
+-------df index 28193--------
+case1: 1	case2: 0
+
+-------df index 28195--------
+case1: 2	case2: 0
+
+-------df index 28199--------
+case1: 3	case2: 0
+
+-------df index 28207--------
+case1: 3	case2: 0
+
+-------df index 28209--------
+case1: 3	case2: 0
+
+-------df index 28210--------
+case1: 1	case2: 0
+
+-------df index 28211--------
+case1: 1	case2: 1
+
+-------df index 28215--------
+case1: 2	case2: 0
+
+-------df index 28220--------
+case1: 2	case2: 0
+
+-------df index 28221--------
+case1: 1	case2: 0
+
+-------df index 28225--------
+case1: 1	case2: 0
+
+-------df index 28226--------
+case1: 8	case2: 0
+
+-------df index 28229--------
+case1: 2	case2: 0
+
+-------df index 28232--------
+case1: 1	case2: 0
+
+-------df index 28234--------
+case1: 3	case2: 0
+
+-------df index 28238--------
+case1: 2	case2: 0
+
+-------df index 28250--------
+case1: 6	case2: 1
+
+-------df index 28255--------
+case1: 1	case2: 0
+
+-------df index 28256--------
+case1: 1	case2: 0
+
+-------df index 28262--------
+case1: 5	case2: 0
+
+-------df index 28263--------
+case1: 1	case2: 0
+
+-------df index 28265--------
+case1: 1	case2: 0
+
+-------df index 28266--------
+case1: 1	case2: 0
+
+-------df index 28268--------
+case1: 1	case2: 0
+
+-------df index 28277--------
+case1: 5	case2: 0
+
+-------df index 28281--------
+case1: 11	case2: 0
+
+-------df index 28295--------
+case1: 1	case2: 0
+
+-------df index 28296--------
+case1: 1	case2: 0
+
+-------df index 28298--------
+case1: 3	case2: 0
+
+-------df index 28300--------
+case1: 7	case2: 0
+
+-------df index 28305--------
+case1: 2	case2: 0
+
+-------df index 28311--------
+case1: 3	case2: 0
+
+-------df index 28321--------
+case1: 1	case2: 0
+
+-------df index 28322--------
+case1: 1	case2: 0
+
+-------df index 28323--------
+case1: 1	case2: 0
+
+-------df index 28324--------
+case1: 1	case2: 0
+
+-------df index 28330--------
+case1: 5	case2: 4
+
+-------df index 28335--------
+case1: 1	case2: 0
+
+-------df index 28337--------
+case1: 1	case2: 0
+
+-------df index 28338--------
+case1: 1	case2: 0
+
+-------df index 28339--------
+case1: 6	case2: 2
+
+-------df index 28348--------
+case1: 2	case2: 0
+
+-------df index 28349--------
+case1: 5	case2: 0
+
+-------df index 28352--------
+case1: 11	case2: 1
+
+-------df index 28361--------
+case1: 49	case2: 3
+
+-------df index 28378--------
+case1: 4	case2: 1
+
+-------df index 28380--------
+case1: 1	case2: 0
+
+-------df index 28381--------
+case1: 1	case2: 0
+
+-------df index 28382--------
+case1: 3	case2: 0
+
+-------df index 28384--------
+case1: 1	case2: 0
+
+-------df index 28388--------
+case1: 1	case2: 0
+
+-------df index 28399--------
+case1: 1	case2: 0
+
+-------df index 28406--------
+case1: 2	case2: 0
+
+-------df index 28418--------
+case1: 1	case2: 0
+
+-------df index 28419--------
+case1: 1	case2: 0
+
+-------df index 28420--------
+case1: 1	case2: 0
+
+-------df index 28421--------
+case1: 1	case2: 0
+
+-------df index 28422--------
+case1: 3	case2: 0
+
+-------df index 28424--------
+case1: 1	case2: 0
+
+-------df index 28426--------
+case1: 1	case2: 0
+
+-------df index 28435--------
+case1: 1	case2: 0
+
+-------df index 28442--------
+case1: 1	case2: 0
+
+-------df index 28443--------
+case1: 2	case2: 0
+
+-------df index 28447--------
+case1: 31	case2: 3
+
+-------df index 28448--------
+case1: 4	case2: 0
+
+-------df index 28450--------
+case1: 1	case2: 1
+
+-------df index 28452--------
+case1: 4	case2: 1
+
+-------df index 28455--------
+case1: 4	case2: 0
+
+-------df index 28463--------
+case1: 1	case2: 0
+
+-------df index 28465--------
+case1: 2	case2: 0
+
+-------df index 28469--------
+case1: 36	case2: 5
+
+-------df index 28472--------
+case1: 3	case2: 1
+
+-------df index 28486--------
+case1: 2	case2: 1
+
+-------df index 28487--------
+case1: 1	case2: 0
+
+-------df index 28492--------
+case1: 1	case2: 0
+
+-------df index 28498--------
+case1: 1	case2: 0
+
+-------df index 28499--------
+case1: 1	case2: 0
+
+-------df index 28502--------
+case1: 12	case2: 2
+
+-------df index 28507--------
+case1: 2	case2: 1
+
+-------df index 28508--------
+case1: 1	case2: 0
+
+-------df index 28509--------
+case1: 1	case2: 0
+
+-------df index 28510--------
+case1: 5	case2: 0
+
+-------df index 28512--------
+case1: 1	case2: 0
+
+-------df index 28514--------
+case1: 1	case2: 0
+
+-------df index 28516--------
+case1: 22	case2: 0
+
+-------df index 28522--------
+case1: 3	case2: 0
+
+-------df index 28523--------
+case1: 5	case2: 0
+
+-------df index 28535--------
+case1: 1	case2: 0
+
+-------df index 28540--------
+case1: 1	case2: 0
+
+-------df index 28542--------
+case1: 2	case2: 0
+
+-------df index 28543--------
+case1: 1	case2: 0
+
+-------df index 28545--------
+case1: 1	case2: 0
+
+-------df index 28549--------
+case1: 3	case2: 0
+
+-------df index 28551--------
+case1: 5	case2: 1
+
+-------df index 28552--------
+case1: 1	case2: 0
+
+-------df index 28558--------
+case1: 4	case2: 3
+
+-------df index 28567--------
+case1: 1	case2: 1
+
+-------df index 28568--------
+case1: 2	case2: 0
+
+-------df index 28569--------
+case1: 1	case2: 0
+
+-------df index 28573--------
+case1: 3	case2: 9
+
+-------df index 28578--------
+case1: 23	case2: 1
+
+-------df index 28579--------
+case1: 1	case2: 0
+
+-------df index 28580--------
+case1: 2	case2: 0
+
+-------df index 28584--------
+case1: 8	case2: 4
+
+-------df index 28585--------
+case1: 1	case2: 0
+
+-------df index 28598--------
+case1: 1	case2: 0
+
+-------df index 28605--------
+case1: 3	case2: 0
+
+-------df index 28607--------
+case1: 1	case2: 0
+
+-------df index 28608--------
+case1: 20	case2: 2
+
+-------df index 28610--------
+case1: 10	case2: 0
+
+-------df index 28611--------
+case1: 18	case2: 0
+
+-------df index 28614--------
+case1: 8	case2: 1
+
+-------df index 28616--------
+case1: 3	case2: 0
+
+-------df index 28617--------
+case1: 3	case2: 0
+
+-------df index 28620--------
+case1: 1	case2: 0
+
+-------df index 28621--------
+case1: 7	case2: 0
+
+-------df index 28627--------
+case1: 1	case2: 0
+
+-------df index 28628--------
+case1: 10	case2: 7
+
+-------df index 28629--------
+case1: 3	case2: 0
+
+-------df index 28632--------
+case1: 14	case2: 1
+
+-------df index 28638--------
+case1: 1	case2: 0
+
+-------df index 28640--------
+case1: 1	case2: 0
+
+-------df index 28641--------
+case1: 1	case2: 0
+
+-------df index 28642--------
+case1: 1	case2: 0
+
+-------df index 28647--------
+case1: 1	case2: 0
+
+-------df index 28649--------
+case1: 2	case2: 0
+
+-------df index 28655--------
+case1: 1	case2: 0
+
+-------df index 28659--------
+case1: 1	case2: 0
+
+-------df index 28660--------
+case1: 15	case2: 11
+
+-------df index 28662--------
+case1: 3	case2: 0
+
+-------df index 28667--------
+case1: 1	case2: 0
+
+-------df index 28668--------
+case1: 2	case2: 0
+
+-------df index 28671--------
+case1: 7	case2: 0
+
+-------df index 28673--------
+case1: 2	case2: 1
+
+-------df index 28674--------
+case1: 2	case2: 0
+
+-------df index 28677--------
+case1: 2	case2: 0
+
+-------df index 28678--------
+case1: 1	case2: 0
+
+-------df index 28680--------
+case1: 2	case2: 0
+
+-------df index 28684--------
+case1: 2	case2: 2
+
+-------df index 28691--------
+case1: 2	case2: 2
+
+-------df index 28696--------
+case1: 3	case2: 0
+
+-------df index 28703--------
+case1: 1	case2: 0
+
+-------df index 28704--------
+case1: 1	case2: 0
+
+-------df index 28709--------
+case1: 1	case2: 0
+
+-------df index 28718--------
+case1: 1	case2: 0
+
+-------df index 28719--------
+case1: 1	case2: 0
+
+-------df index 28720--------
+case1: 2	case2: 0
+
+-------df index 28721--------
+case1: 2	case2: 2
+
+-------df index 28723--------
+case1: 1	case2: 0
+
+-------df index 28726--------
+case1: 1	case2: 0
+
+-------df index 28731--------
+case1: 2	case2: 0
+
+-------df index 28737--------
+case1: 3	case2: 0
+
+-------df index 28751--------
+case1: 1	case2: 0
+
+-------df index 28755--------
+case1: 54	case2: 9
+
+-------df index 28771--------
+case1: 1	case2: 0
+
+-------df index 28772--------
+case1: 1	case2: 0
+
+-------df index 28776--------
+case1: 1	case2: 0
+
+-------df index 28779--------
+case1: 1	case2: 0
+
+-------df index 28781--------
+case1: 20	case2: 5
+
+-------df index 28784--------
+case1: 2	case2: 0
+
+-------df index 28787--------
+case1: 1	case2: 0
+
+-------df index 28788--------
+case1: 2	case2: 0
+
+-------df index 28789--------
+case1: 1	case2: 0
+
+-------df index 28791--------
+case1: 1	case2: 0
+
+-------df index 28795--------
+case1: 4	case2: 0
+
+-------df index 28803--------
+case1: 12	case2: 0
+
+-------df index 28814--------
+case1: 1	case2: 0
+
+-------df index 28821--------
+case1: 4	case2: 0
+
+-------df index 28823--------
+case1: 3	case2: 3
+
+-------df index 28824--------
+case1: 2	case2: 1
+
+-------df index 28833--------
+case1: 11	case2: 1
+
+-------df index 28835--------
+case1: 1	case2: 0
+
+-------df index 28836--------
+case1: 1	case2: 0
+
+-------df index 28837--------
+case1: 1	case2: 0
+
+-------df index 28839--------
+case1: 1	case2: 0
+
+-------df index 28840--------
+case1: 4	case2: 1
+
+-------df index 28841--------
+case1: 2	case2: 0
+
+-------df index 28842--------
+case1: 1	case2: 0
+
+-------df index 28843--------
+case1: 1	case2: 0
+
+-------df index 28845--------
+case1: 7	case2: 0
+
+-------df index 28849--------
+case1: 1	case2: 0
+
+-------df index 28850--------
+case1: 1	case2: 0
+
+-------df index 28852--------
+case1: 14	case2: 0
+
+-------df index 28855--------
+case1: 1	case2: 0
+
+-------df index 28856--------
+case1: 1	case2: 0
+
+-------df index 28858--------
+case1: 7	case2: 1
+
+-------df index 28861--------
+case1: 3	case2: 0
+
+-------df index 28864--------
+case1: 2	case2: 0
+
+-------df index 28871--------
+case1: 12	case2: 5
+
+-------df index 28874--------
+case1: 1	case2: 0
+
+-------df index 28878--------
+case1: 2	case2: 0
+
+-------df index 28881--------
+case1: 1	case2: 0
+
+-------df index 28882--------
+case1: 4	case2: 0
+
+-------df index 28883--------
+case1: 1	case2: 0
+
+-------df index 28891--------
+case1: 2	case2: 0
+
+-------df index 28892--------
+case1: 1	case2: 0
+
+-------df index 28895--------
+case1: 4	case2: 0
+
+-------df index 28896--------
+case1: 16	case2: 0
+
+-------df index 28905--------
+case1: 1	case2: 0
+
+-------df index 28909--------
+case1: 1	case2: 0
+
+-------df index 28913--------
+case1: 1	case2: 0
+
+-------df index 28914--------
+case1: 2	case2: 0
+
+-------df index 28927--------
+case1: 1	case2: 0
+
+-------df index 28929--------
+case1: 1	case2: 0
+
+-------df index 28938--------
+case1: 1	case2: 0
+
+-------df index 28947--------
+case1: 2	case2: 2
+
+-------df index 28952--------
+case1: 1	case2: 0
+
+-------df index 28953--------
+case1: 1	case2: 0
+
+-------df index 28956--------
+case1: 1	case2: 0
+
+-------df index 28957--------
+case1: 4	case2: 0
+
+-------df index 28961--------
+case1: 1	case2: 0
+
+-------df index 28962--------
+case1: 1	case2: 0
+
+-------df index 28967--------
+case1: 10	case2: 7
+
+-------df index 28969--------
+case1: 6	case2: 0
+
+-------df index 28974--------
+case1: 1	case2: 0
+
+-------df index 28978--------
+case1: 1	case2: 0
+
+-------df index 28979--------
+case1: 3	case2: 2
+
+-------df index 29000--------
+case1: 1	case2: 0
+
+-------df index 29002--------
+case1: 1	case2: 0
+
+-------df index 29005--------
+case1: 1	case2: 0
+
+-------df index 29012--------
+case1: 1	case2: 0
+
+-------df index 29019--------
+case1: 11	case2: 0
+
+-------df index 29027--------
+case1: 1	case2: 0
+
+-------df index 29029--------
+case1: 3	case2: 1
+
+-------df index 29030--------
+case1: 1	case2: 0
+
+-------df index 29031--------
+case1: 16	case2: 5
+
+-------df index 29033--------
+case1: 6	case2: 1
+
+-------df index 29037--------
+case1: 1	case2: 0
+
+-------df index 29038--------
+case1: 2	case2: 0
+
+-------df index 29039--------
+case1: 1	case2: 0
+
+-------df index 29042--------
+case1: 1	case2: 0
+
+-------df index 29044--------
+case1: 1	case2: 0
+
+-------df index 29050--------
+case1: 1	case2: 2
+
+-------df index 29057--------
+case1: 11	case2: 4
+
+-------df index 29059--------
+case1: 1	case2: 0
+
+-------df index 29062--------
+case1: 1	case2: 0
+
+-------df index 29071--------
+case1: 2	case2: 1
+
+-------df index 29072--------
+case1: 1	case2: 0
+
+-------df index 29074--------
+case1: 1	case2: 0
+
+-------df index 29080--------
+case1: 5	case2: 0
+
+-------df index 29081--------
+case1: 11	case2: 0
+
+-------df index 29092--------
+case1: 1	case2: 0
+
+-------df index 29093--------
+case1: 1	case2: 0
+
+-------df index 29099--------
+case1: 12	case2: 1
+
+-------df index 29100--------
+case1: 1	case2: 0
+
+-------df index 29101--------
+case1: 9	case2: 0
+
+-------df index 29113--------
+case1: 12	case2: 1
+
+-------df index 29114--------
+case1: 2	case2: 0
+
+-------df index 29117--------
+case1: 2	case2: 0
+
+-------df index 29130--------
+case1: 1	case2: 0
+
+-------df index 29140--------
+case1: 1	case2: 0
+
+-------df index 29144--------
+case1: 2	case2: 1
+
+-------df index 29147--------
+case1: 1	case2: 0
+
+-------df index 29149--------
+case1: 1	case2: 0
+
+-------df index 29153--------
+case1: 1	case2: 0
+
+-------df index 29158--------
+case1: 1	case2: 0
+
+-------df index 29159--------
+case1: 1	case2: 0
+
+-------df index 29161--------
+case1: 2	case2: 0
+
+-------df index 29164--------
+case1: 9	case2: 0
+
+-------df index 29167--------
+case1: 2	case2: 0
+
+-------df index 29170--------
+case1: 1	case2: 0
+
+-------df index 29175--------
+case1: 1	case2: 0
+
+-------df index 29180--------
+case1: 6	case2: 5
+
+-------df index 29192--------
+case1: 1	case2: 0
+
+-------df index 29197--------
+case1: 2	case2: 0
+
+-------df index 29204--------
+case1: 1	case2: 0
+
+-------df index 29208--------
+case1: 3	case2: 0
+
+-------df index 29214--------
+case1: 6	case2: 0
+
+-------df index 29216--------
+case1: 4	case2: 0
+
+-------df index 29220--------
+case1: 1	case2: 0
+
+-------df index 29221--------
+case1: 1	case2: 0
+
+-------df index 29224--------
+case1: 1	case2: 0
+
+-------df index 29225--------
+case1: 8	case2: 0
+
+-------df index 29228--------
+case1: 1	case2: 0
+
+-------df index 29229--------
+case1: 3	case2: 0
+
+-------df index 29232--------
+case1: 1	case2: 0
+
+-------df index 29234--------
+case1: 1	case2: 0
+
+-------df index 29238--------
+case1: 1	case2: 0
+
+-------df index 29240--------
+case1: 10	case2: 2
+
+-------df index 29256--------
+case1: 1	case2: 0
+
+-------df index 29263--------
+case1: 2	case2: 1
+
+-------df index 29264--------
+case1: 3	case2: 0
+
+-------df index 29266--------
+case1: 1	case2: 0
+
+-------df index 29276--------
+case1: 2	case2: 0
+
+-------df index 29286--------
+case1: 4	case2: 0
+
+-------df index 29288--------
+case1: 12	case2: 4
+
+-------df index 29290--------
+case1: 1	case2: 0
+
+-------df index 29291--------
+case1: 10	case2: 0
+
+-------df index 29293--------
+case1: 1	case2: 0
